@@ -1,0 +1,44 @@
+{
+  "collapse-filter": false,
+  "search": "",
+  "showTags": false,
+  "showAttachments": false,
+  "hideUnresolved": false,
+  "showOrphans": true,
+  "collapse-color-groups": false,
+  "colorGroups": [
+    {
+      "query": "python",
+      "color": {
+        "a": 1,
+        "rgb": 14701138
+      }
+    },
+    {
+      "query": "explanation ",
+      "color": {
+        "a": 1,
+        "rgb": 14725458
+      }
+    },
+    {
+      "query": "lesson",
+      "color": {
+        "a": 1,
+        "rgb": 5402336
+      }
+    }
+  ],
+  "collapse-display": false,
+  "showArrow": false,
+  "textFadeMultiplier": -0.6,
+  "nodeSizeMultiplier": 1.30717255717256,
+  "lineSizeMultiplier": 0.757068607068607,
+  "collapse-forces": false,
+  "centerStrength": 0.479209979209979,
+  "repelStrength": 14.7401247401247,
+  "linkStrength": 1,
+  "linkDistance": 85,
+  "scale": 0.20366142286644665,
+  "close": true
+}
