@@ -1,8 +1,9 @@
-if you are still think that watching lectures and grinding python problems will make you better than me 
+if you are still think that watching lectures and grinding python problems
+will make you better than me 
 
 **because you think** that discipline is all it takes to win
 
-you are simply wrong, you will never be able to win against me. 
+you are simply wrong, you will never be able to surpass me.
 
 if you force yourself to work or solve problems.
 you will never beat the person who just wants too.
@@ -17,6 +18,8 @@ don't think about how frustrating your problems are , think about the skill your
 
 once you do this enough , you start to love the process , you don't need motivation , you don't feel like giving up, you actually want it.  
 
-Bus obviously , this mindset won't work unless you have a goal.
+But obviously , this mindset won't work unless you have a goal.
 
 so let me ask you ? what is your goal , what do you want ? what do you want to achieve. 
+
+[[choose you goal]]

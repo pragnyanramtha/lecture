@@ -1,7 +1,4 @@
 
-
-[[Chapter 2]]
-
 Artificial intelligence is scary. 
 
 it has been taking over jobs at an incredible rate and most people fear that it will put an end to white color jobs, but there is something.  
@@ -10,3 +7,5 @@ you know whats the thing that really differentiates us from AI, is not the fact 
 
 what you really need is the right idea, and it is a very abstract idea:
 which means it generalizes, so when you keep doing problems , you develop a natural instinct to recognize patterns and find the right syntax to reproduce these patterns.  
+
+[[transition to python]]

@@ -16,3 +16,7 @@ relationships - so i can share that life with whoever i want.
 
 but remember that , its not the achievements that that make you happy , its the growth you make in that process.
 
+but how do you grow , How do you adapt ? 
+
+[[adapt]]
+

@@ -4,245 +4,227 @@
     "type": "split",
     "children": [
       {
-        "id": "75507982fe5efb2e",
-        "type": "split",
+        "id": "e6f3962e03de51cc",
+        "type": "tabs",
         "children": [
           {
-            "id": "e6f3962e03de51cc",
-            "type": "tabs",
-            "children": [
-              {
-                "id": "48a705abe96c810a",
-                "type": "leaf",
-                "state": {
-                  "type": "markdown",
-                  "state": {
-                    "file": "how to actually learn to code.md",
-                    "mode": "source",
-                    "source": false,
-                    "backlinks": true,
-                    "backlinkOpts": {
-                      "collapseAll": false,
-                      "extraContext": false,
-                      "sortOrder": "alphabetical",
-                      "showSearch": false,
-                      "searchQuery": "",
-                      "backlinkCollapsed": false,
-                      "unlinkedCollapsed": true
-                    }
-                  },
-                  "icon": "lucide-file",
-                  "title": "how to actually learn to code"
+            "id": "f3662027a1127480",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Start.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
                 }
               },
-              {
-                "id": "2d23242f78ec9097",
-                "type": "leaf",
-                "state": {
-                  "type": "markdown",
-                  "state": {
-                    "file": "motivation.md",
-                    "mode": "source",
-                    "source": false,
-                    "backlinks": true,
-                    "backlinkOpts": {
-                      "collapseAll": false,
-                      "extraContext": false,
-                      "sortOrder": "alphabetical",
-                      "showSearch": false,
-                      "searchQuery": "",
-                      "backlinkCollapsed": false,
-                      "unlinkedCollapsed": true
-                    }
-                  },
-                  "icon": "lucide-file",
-                  "title": "motivation"
-                }
-              },
-              {
-                "id": "079c5d8a99e7e2d6",
-                "type": "leaf",
-                "state": {
-                  "type": "markdown",
-                  "state": {
-                    "file": "Python.md",
-                    "mode": "source",
-                    "source": false,
-                    "backlinks": true,
-                    "backlinkOpts": {
-                      "collapseAll": false,
-                      "extraContext": false,
-                      "sortOrder": "alphabetical",
-                      "showSearch": false,
-                      "searchQuery": "",
-                      "backlinkCollapsed": false,
-                      "unlinkedCollapsed": true
-                    }
-                  },
-                  "icon": "lucide-file",
-                  "title": "Python"
-                }
-              }
-            ]
+              "icon": "lucide-file",
+              "title": "Start"
+            }
           },
           {
-            "id": "b6a35472c588f0f3",
-            "type": "tabs",
-            "children": [
-              {
-                "id": "e4aa96e9e3261562",
-                "type": "leaf",
-                "state": {
-                  "type": "markdown",
-                  "state": {
-                    "file": "lesson 1.md",
-                    "mode": "source",
-                    "source": false,
-                    "backlinks": true,
-                    "backlinkOpts": {
-                      "collapseAll": false,
-                      "extraContext": false,
-                      "sortOrder": "alphabetical",
-                      "showSearch": false,
-                      "searchQuery": "",
-                      "backlinkCollapsed": false,
-                      "unlinkedCollapsed": true
-                    }
-                  },
-                  "icon": "lucide-file",
-                  "title": "lesson 1"
+            "id": "9ca45f82328f2974",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "motivation.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
                 }
               },
-              {
-                "id": "15e189bad979cd4a",
-                "type": "leaf",
-                "state": {
-                  "type": "markdown",
-                  "state": {
-                    "file": "Python.md",
-                    "mode": "source",
-                    "source": false,
-                    "backlinks": true,
-                    "backlinkOpts": {
-                      "collapseAll": false,
-                      "extraContext": false,
-                      "sortOrder": "alphabetical",
-                      "showSearch": false,
-                      "searchQuery": "",
-                      "backlinkCollapsed": false,
-                      "unlinkedCollapsed": true
-                    }
-                  },
-                  "icon": "lucide-file",
-                  "title": "Python"
-                }
-              }
-            ],
-            "currentTab": 1
-          }
-        ],
-        "direction": "horizontal"
-      },
-      {
-        "id": "1511d18d7e3d280d",
-        "type": "split",
-        "children": [
-          {
-            "id": "778fcc07209092bf",
-            "type": "tabs",
-            "children": [
-              {
-                "id": "23e854080edefadd",
-                "type": "leaf",
-                "state": {
-                  "type": "markdown",
-                  "state": {
-                    "file": "Chapter 1.md",
-                    "mode": "source",
-                    "source": false,
-                    "backlinks": true,
-                    "backlinkOpts": {
-                      "collapseAll": false,
-                      "extraContext": false,
-                      "sortOrder": "alphabetical",
-                      "showSearch": false,
-                      "searchQuery": "",
-                      "backlinkCollapsed": false,
-                      "unlinkedCollapsed": true
-                    }
-                  },
-                  "icon": "lucide-file",
-                  "title": "Chapter 1"
-                }
-              },
-              {
-                "id": "473829924a150db8",
-                "type": "leaf",
-                "state": {
-                  "type": "markdown",
-                  "state": {
-                    "file": "lesson 2.md",
-                    "mode": "source",
-                    "source": false,
-                    "backlinks": true,
-                    "backlinkOpts": {
-                      "collapseAll": false,
-                      "extraContext": false,
-                      "sortOrder": "alphabetical",
-                      "showSearch": false,
-                      "searchQuery": "",
-                      "backlinkCollapsed": false,
-                      "unlinkedCollapsed": true
-                    }
-                  },
-                  "icon": "lucide-file",
-                  "title": "lesson 2"
-                }
-              },
-              {
-                "id": "5579a467c196912b",
-                "type": "leaf",
-                "state": {
-                  "type": "markdown",
-                  "state": {
-                    "file": "syntax.md",
-                    "mode": "source",
-                    "source": false,
-                    "backlinks": true,
-                    "backlinkOpts": {
-                      "collapseAll": false,
-                      "extraContext": false,
-                      "sortOrder": "alphabetical",
-                      "showSearch": false,
-                      "searchQuery": "",
-                      "backlinkCollapsed": false,
-                      "unlinkedCollapsed": true
-                    }
-                  },
-                  "icon": "lucide-file",
-                  "title": "syntax"
-                }
-              }
-            ]
+              "icon": "lucide-file",
+              "title": "motivation"
+            }
           },
           {
-            "id": "c19a7305b7da859e",
-            "type": "tabs",
-            "children": [
-              {
-                "id": "ffab522f75ad9355",
-                "type": "leaf",
-                "state": {
-                  "type": "graph",
-                  "state": {},
-                  "icon": "lucide-git-fork",
-                  "title": "Graph view"
+            "id": "a27a499a5f9e3df1",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "delusional optimisim.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
                 }
-              }
-            ]
+              },
+              "icon": "lucide-file",
+              "title": "delusional optimisim"
+            }
+          },
+          {
+            "id": "e70be93e38e63a4a",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "choose you goal.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "choose you goal"
+            }
+          },
+          {
+            "id": "8f7f3899e50c1365",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "adapt.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "adapt"
+            }
+          },
+          {
+            "id": "6f4ee33253eca947",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "our future.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "our future"
+            }
+          },
+          {
+            "id": "24eb3e10116f38c7",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "japanese quote.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "japanese quote"
+            }
+          },
+          {
+            "id": "ae4c4f1dcefc737d",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "problem solving.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "problem solving"
+            }
+          },
+          {
+            "id": "d3a5c7c42f1a2687",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "transition to python.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "transition to python"
+            }
           }
         ],
-        "direction": "horizontal"
+        "currentTab": 4
       }
     ],
     "direction": "vertical"
@@ -299,7 +281,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 295.5
+    "width": 200,
+    "collapsed": true
   },
   "right": {
     "id": "cd58c165c3b3dd20",
@@ -308,6 +291,7 @@
       {
         "id": "1dba065358a2d41c",
         "type": "tabs",
+        "dimension": 23.14814814814815,
         "children": [
           {
             "id": "064dcc8041588ede",
@@ -315,7 +299,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "problem solving.md",
+                "file": "motivation.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -325,7 +309,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for problem solving"
+              "title": "Backlinks for motivation"
             }
           },
           {
@@ -334,12 +318,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "problem solving.md",
+                "file": "motivation.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from problem solving"
+              "title": "Outgoing links from motivation"
             }
           },
           {
@@ -363,13 +347,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "problem solving.md",
+                "file": "motivation.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of problem solving"
+              "title": "Outline of motivation"
             }
           },
           {
@@ -384,6 +368,23 @@
           }
         ],
         "currentTab": 4
+      },
+      {
+        "id": "c4c7bf8a64a669aa",
+        "type": "tabs",
+        "dimension": 76.85185185185185,
+        "children": [
+          {
+            "id": "ffab522f75ad9355",
+            "type": "leaf",
+            "state": {
+              "type": "graph",
+              "state": {},
+              "icon": "lucide-git-fork",
+              "title": "Graph view"
+            }
+          }
+        ]
       }
     ],
     "direction": "horizontal",
@@ -401,34 +402,34 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "23e854080edefadd",
+  "active": "8f7f3899e50c1365",
   "lastOpenFiles": [
-    "cpu and memory.md",
-    "Python.md",
-    "lesson 1.md",
-    "lesson 0.md",
-    "syntax.md",
-    "flow.md",
-    "keywords.md",
-    "lesson 2.md",
-    "transition to python.md",
-    "how to actually learn to code.md",
-    "japanese quote.md",
-    "losing is not the end.md",
-    "math functions.md",
-    "motivation.md",
-    "operators.md",
-    "our future.md",
     "problem solving.md",
-    "choose you goal.md",
-    "Functions.md",
-    "explanation.md",
-    "everthing in python is an object.md",
-    "delusional optimisim.md",
-    "data structures or objects.md",
-    "connection between math functions and python functions.md",
-    "Chapter 3.md",
+    "our future.md",
+    "japanese quote.md",
     "Chapter 2.md",
+    "adapt.md",
+    "transition to python.md",
+    "choose you goal.md",
+    "delusional optimisim.md",
+    "motivation.md",
+    "AnimationScene.mp4",
+    "Start.md",
+    "Untitled.md",
+    "lesson 0.md",
+    "lesson 1.md",
+    "Chapter 3.md",
+    "example.md",
+    "explanation.md",
+    "Chapter 1.md",
+    "syntax.md",
+    "operators.md",
+    "Variables.md",
+    "Python.md",
+    "cpu and memory.md",
+    "keywords.md",
+    "how to actually learn to code.md",
+    "lesson 2.md",
     "Untitled"
   ]
 }

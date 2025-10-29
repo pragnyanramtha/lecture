@@ -1,4 +1,4 @@
-[[problem solving]]
+
 
 
 there is really nice quote in Japanese,  

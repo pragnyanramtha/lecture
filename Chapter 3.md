@@ -1,2 +1,0 @@
-[[delusional optimisim]]
-[[motivation]]
