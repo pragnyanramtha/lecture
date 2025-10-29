@@ -4,35 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "e6f3962e03de51cc",
+        "id": "1452b95656fcbd4c",
         "type": "tabs",
         "children": [
           {
-            "id": "f3662027a1127480",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Start.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "Start"
-            }
-          },
-          {
-            "id": "9ca45f82328f2974",
+            "id": "05f1b4e5cc0784fc",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -56,7 +32,7 @@
             }
           },
           {
-            "id": "a27a499a5f9e3df1",
+            "id": "72c8ab06483af63a",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -80,7 +56,7 @@
             }
           },
           {
-            "id": "e70be93e38e63a4a",
+            "id": "1e2450a83243a93b",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -104,7 +80,7 @@
             }
           },
           {
-            "id": "8f7f3899e50c1365",
+            "id": "3bf5b977f45d9860",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -128,7 +104,7 @@
             }
           },
           {
-            "id": "6f4ee33253eca947",
+            "id": "f91b10cb3b8a235a",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -152,31 +128,7 @@
             }
           },
           {
-            "id": "24eb3e10116f38c7",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "japanese quote.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "japanese quote"
-            }
-          },
-          {
-            "id": "ae4c4f1dcefc737d",
+            "id": "3b57562cfec58b2a",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -200,7 +152,7 @@
             }
           },
           {
-            "id": "d3a5c7c42f1a2687",
+            "id": "d6f9ffe34a38154e",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -291,7 +243,6 @@
       {
         "id": "1dba065358a2d41c",
         "type": "tabs",
-        "dimension": 23.14814814814815,
         "children": [
           {
             "id": "064dcc8041588ede",
@@ -357,6 +308,16 @@
             }
           },
           {
+            "id": "060f9f82cf156e50",
+            "type": "leaf",
+            "state": {
+              "type": "graph",
+              "state": {},
+              "icon": "lucide-git-fork",
+              "title": "Graph view"
+            }
+          },
+          {
             "id": "273403b9faba540b",
             "type": "leaf",
             "state": {
@@ -367,28 +328,11 @@
             }
           }
         ],
-        "currentTab": 4
-      },
-      {
-        "id": "c4c7bf8a64a669aa",
-        "type": "tabs",
-        "dimension": 76.85185185185185,
-        "children": [
-          {
-            "id": "ffab522f75ad9355",
-            "type": "leaf",
-            "state": {
-              "type": "graph",
-              "state": {},
-              "icon": "lucide-git-fork",
-              "title": "Graph view"
-            }
-          }
-        ]
+        "currentTab": 5
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 798.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -402,21 +346,24 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "8f7f3899e50c1365",
+  "active": "273403b9faba540b",
   "lastOpenFiles": [
-    "problem solving.md",
     "our future.md",
-    "japanese quote.md",
-    "Chapter 2.md",
     "adapt.md",
-    "transition to python.md",
     "choose you goal.md",
     "delusional optimisim.md",
     "motivation.md",
-    "AnimationScene.mp4",
+    "transition to python.md",
+    "problem solving.md",
+    "Untitled 1.md",
     "Start.md",
+    "how to actually learn to code.md",
+    "problems.md",
     "Untitled.md",
     "lesson 0.md",
+    "japanese quote.md",
+    "Chapter 2.md",
+    "AnimationScene.mp4",
     "lesson 1.md",
     "Chapter 3.md",
     "example.md",
@@ -428,8 +375,6 @@
     "Python.md",
     "cpu and memory.md",
     "keywords.md",
-    "how to actually learn to code.md",
-    "lesson 2.md",
     "Untitled"
   ]
 }

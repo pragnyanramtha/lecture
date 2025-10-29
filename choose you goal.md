@@ -1,3 +1,5 @@
+some of you were like how can money be a goal ?
+
 money doesn't buy happiness, but there are rich people who are way happier than you. 
 
 so if you are ambitions , should money even be your goal ? 
