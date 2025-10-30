@@ -8,7 +8,7 @@
         "type": "tabs",
         "children": [
           {
-            "id": "05f1b4e5cc0784fc",
+            "id": "e21333af2113cf98",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -109,7 +109,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "lesson 0.md",
+                "file": "Isolation.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -124,16 +124,16 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "lesson 0"
+              "title": "Isolation"
             }
           },
           {
-            "id": "3b57562cfec58b2a",
+            "id": "5a36fe6d243be9e9",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Python.md",
+                "file": "Rat's Cage.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -148,16 +148,16 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Python"
+              "title": "Rat's Cage"
             }
           },
           {
-            "id": "d6f9ffe34a38154e",
+            "id": "15d224564b0f4885",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "lesson 1.md",
+                "file": "hard work.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -172,11 +172,131 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "lesson 1"
+              "title": "hard work"
+            }
+          },
+          {
+            "id": "0dd6dacc9712c0d7",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "framework.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "framework"
+            }
+          },
+          {
+            "id": "f7b57df5395510aa",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "step 1 - trigger.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "step 1 - trigger"
+            }
+          },
+          {
+            "id": "93f331cc4fe1a462",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "step 2 - work.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "step 2 - work"
+            }
+          },
+          {
+            "id": "0b8a598e901d5c5e",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "step 3  - results.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "step 3  - results"
+            }
+          },
+          {
+            "id": "f1d2a1e8fc909943",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "story.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "story"
             }
           }
         ],
-        "currentTab": 4
+        "currentTab": 10
       }
     ],
     "direction": "vertical"
@@ -233,8 +353,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200,
-    "collapsed": true
+    "width": 200
   },
   "right": {
     "id": "cd58c165c3b3dd20",
@@ -332,7 +451,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 798.5
+    "width": 406.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -348,33 +467,33 @@
   },
   "active": "273403b9faba540b",
   "lastOpenFiles": [
-    "conflict-files-obsidian-git.md",
+    "step 2 - work.md",
+    "step 1 - trigger.md",
+    "story.md",
+    "step 3  - results.md",
+    "framework.md",
+    "hard work.md",
+    "Rat's Cage.md",
     "Isolation.md",
-    "lesson 0.md",
-    "lesson 1.md",
-    "problem solving.md",
-    "what follow your dream misses.md",
-    "Python.md",
-    "transition to python.md",
     "adapt.md",
     "choose you goal.md",
     "delusional optimisim.md",
     "motivation.md",
-    "Untitled 1.md",
     "Start.md",
+    "Python.md",
+    "our future.md",
+    "lesson 0.md",
+    "conflict-files-obsidian-git.md",
+    "lesson 1.md",
+    "problem solving.md",
+    "what follow your dream misses.md",
+    "transition to python.md",
     "how to actually learn to code.md",
     "problems.md",
     "Untitled.md",
     "japanese quote.md",
     "Chapter 2.md",
     "AnimationScene.mp4",
-    "Chapter 3.md",
-    "example.md",
-    "explanation.md",
-    "Chapter 1.md",
-    "syntax.md",
-    "operators.md",
-    "Variables.md",
     "Untitled"
   ]
 }

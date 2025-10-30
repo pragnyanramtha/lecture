@@ -1,25 +1,24 @@
-Let's start with the first one. And think this is one of the most powerful lessons from this list. Real growth happens in isolation. When look back into my life, when first went to inter college, I was dumb af, had zero confidence. And failed in the first weekly exams.
+Let's start with the first one. And think this is one of the most powerful lessons from this list. 
 
- But cut to 2023, just 1 years later, I've improved in every single thing possible. I went from being dumb to a nerd. From zero confidence to speaking in front of you, i become the first person in my college who could make real programs . All this growth happened only because i pulled back from my social circle when i pulled back from my social circle when went into complete ghost mode. 
+Real growth happens in isolation.
+
+When look back into my life, when first went to inter college,
+I was dumb af, had zero confidence. 
+And failed in the first weekly exams.
+
+But cut to 2025, just 2 years later,
+I've improved in every single thing possible.
+I went from who needed to explanations to someone who explained stuff.
+From zero confidence to speaking in front of all of you,
+i become the first person in my college who could make real applications.
+All this growth happened only because i pulled back from my social circle 
+when i went into complete ghost mode. 
  
- Sometimes you have to disconnect with others just so that you can reconnect with yourself. 
+Sometimes you have to disconnect with others just so that you can reconnect with yourself. 
 
-Now you don't need to stop talking to all of your friends for months and months but at least give yourself 2 hours every day to learn new stuff to reflect on your journey and to think.
+Now you don't need to stop talking to all of your friends for months and months but at least give yourself 2 hours every day to learn new stuff to reflect on your journey and to think about what matters to you and what doesn't.
 
-about what matters to you and what doesn't. The days you don't spend time with yourself are the days that you drift. If you're always surrounded by noise, you'll never hear your own mind. Now, this gets us to the second point, which is to stop living like a rat in someone's cage.
+The days you don't spend time with yourself are the days that you drift.
+If you're always surrounded by noise, you'll never hear your own mind.
 
-For a very long time in my life, I used to take what other people think of me very seriously. Every single time wanted to try new stuff, I used to think about what will my relatives think of me, friends, parents, what will they even think of me. So, you're not a slave of someone's image of you. You're a free
-
-bird just as they are and you can do whatever the i you want if it aligns with your goals. So sometimes feel free to break the image that people have about you just because you can. Now before explain the next point, here's a question for you.
-
-Have you ever worked really hard to achieve something in your life? Think about it. Have you ever tried to give your best to achieve something in your life and failed? But if you never tried, you should actually try it first. But if you did, maybe you can relate to the next thing that I'm saying. For someone who's working hard towards their goals, it is very common
-
-for you to feel alone a lot of times to feel like no one actually understands you. They say it's lonely at the top maybe, but it's also equally lonely while climbing to the top. So just chill, learn to spend time with yourself. Go out, go get a coffee, go have some good food, go to the garden and just said go out for a walk because
-
-if you can't be happy with yourself, you can never be happy with anyone else. Now the fourth one is the secret to reach your goals faster. This is the exact framework that I use to make a lot of progress in different parts of my life. See, as a disclaimer, don't consider myself to be successful yet because I'm fighting my own battles every day. I'm just like you, maybe a few steps ahead, but still have a lot to do in my own life.
-
-But again, coming back to the framework, we have three steps in this. Step one, to start doing anything in life, you need a trigger. You need like a specific time to start doing that thing. For example, when first started learning this programming, machine learning and all this artificial intelligence thing, I had to make sure that I do it well and don't give up in between. So, every day after dinner at around 10 p.m., I used to stop doing everything else andI used to come back to my room to start learning these things. So, 10 p.m. here is my trigger. 10 p.m. is when I would stop doing everything else. Step two, you need to sit down with focus and fight the battle with the world. What do I mean? 
-
-See, every time you sit to work on something, the world doesn't really want you to sit and work on it. So, it will start disturbing you in multiple ways. It will make sure that you have to go on a party with friends. Itll make sure that you get a call from your girlfriend or your boyfriend. Itll throw all these bad things at you just so that you can't sit and focus. The world will throw everything at you because it doesn't want you to be consistent. It wants you to go chil. It wants you to feel bored and sleep. It wants you to go out with your friends, get drunk, watch some porn, and sleep. It's you versus the entire world. And you have to decide what you have to do. Step three, the final step. You need a constant source of feedback to improve your fight. every week probably on a Sunday evening just sit down and think about what have you done during the previous week. What are the things that you did and what can you do better that's it? It's a simple framework TSF. Every day at a specific time sit down to fight the battle with the world and every week give yourself some feedback. But then this leads to a different problem which is people put in the efforts and then they think putting the efforts is the only thing that they have to do. See never confuse movement with progress. You might be sitting and working every day. You might be sitting and studying every day, but if you don't see the results, you're definitely doing something wrong. And I hate people who say hard work doesn't mean success because it does. Hard work will lead to success, but the amount of success will depend upon the direction. It's just like physics. You apply force and the block will move. Now, the force required might be higher based upon the mass of the block and the friction. But if you apply enough force, the block will move unless and until you're pressing it against the surface. So, success depends both on the amount of hard work and the direction. Spacey physics. Got it. Now finally the moment has come. l'd like to tell you a story. 
-
-The story of two of my friends Rau and So see before a couple of years both of them wanted to learn social media marketing. So they started watching videos about it. They started making road map about it. But after a month Ramu felt that he has learned enough. So he directly started applying for internships. His intention was not to make a lot of money but to join the internship and connect with people who are experienced in marketing. So he applied to around 30 to 40 internships and he finally got an offer. But meanwhile, Soo felt that he should actually learn more. So he started watching more videos. He started reading a couple of books. He even started doing a couple of courses. He just felt that he wasn't ready to do internships. Now 3 months passed by, Ramo just finished his internships and Somu was still learning more about marketing. 6 months passed by, Rau did one more internship. But Somu Somu understood that there's Al in marketing now and he also needs to learn about it first. He just felt that he should not rush because he wasn't ready yet. Now two years passed by. Ramos's manager in the previous internships loved his work and offered him a full-time job. Somu Somu was still learning more about marketing. Genius. 5 years passed by and guess what? Somu is still watching videos and learning more about marketing. And Rau just finished 3 years at his job and finally got promoted as a marketing manager at a company. While Ramu felt that he has achieved something in his life, Somu felt like a loser. Rau's parents are proud of him. S0's parents are worried about him. But what went wrong? Both are equally smart. Both went to the same college. Both are equally hardworking as well, right? So what actually went wrong? know you got the answer. You see, in life, you'l never be ready for most of the things. So stop waiting for the right time to come because maybe when you feel it's the right time, it might already be too late. Got it? So yeah, that is it. These are a couple of things that I wanted to share with you today. Let me know in the comments below which
+[[Rat's Cage]]

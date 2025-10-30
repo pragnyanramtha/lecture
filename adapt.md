@@ -8,6 +8,5 @@ In this next section i would like to share a few things i have learnt in the pas
 
 This section has some of most powerful lessons in my life, and i want you to learn from my mistakes.
 
-Real growth   
 [[Isolation ]]
-[[our future]]
+
