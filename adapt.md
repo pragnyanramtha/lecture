@@ -1,4 +1,4 @@
-[[our future]]
+[[what follow your dream misses]]
 
 If i may , let me share a thought of mine 
 
@@ -38,4 +38,4 @@ Don't get me wrong and definitely don't misunderstand me
 
 i am not saying that you should give up on everything and work yourself to death , sure enjoy all you want , but there are sacrifices you need to make to achieve your goals , set deadlines , take a risk, set your goals. i assure you will experience more happiness when you have indeed achieved your goals.    
 
-[[our future]]
+[[what follow your dream misses]]

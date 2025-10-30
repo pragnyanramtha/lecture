@@ -22,15 +22,4 @@ so if you don't have talent
 be prepared to embrace the hard work now 
 
 since we have recently completed your mid exams , i appreciate the hard work all of you have put in, though i also think that this might be a good time to take a step back and realize where we are right now. and see what we have learnt as a whole
-
-with this we will be moving on to our first topic in this lecture 
-
-
-SO what i wanna do right now , is sort of summarize and build a map of everything you have been learning for the past month, so that this will enable you to take a step back and realize what you have been thinking 
-
-manim animation of 2 x 2 tiling of different colored boxes 
-
-zoom into Syntax first 
-
-
-[[syntax]]
+ [[how to actually learn to code]]

@@ -109,7 +109,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "our future.md",
+                "file": "lesson 0.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -124,21 +124,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "our future"
-            }
-          },
-          {
-            "id": "4f5a837e4447271f",
-            "type": "leaf",
-            "state": {
-              "type": "split-diff-view",
-              "state": {
-                "aFile": ".obsidian/workspace.json",
-                "bFile": ".obsidian/workspace.json",
-                "aRef": ""
-              },
-              "icon": "diff",
-              "title": "Diff: workspace.json"
+              "title": "lesson 0"
             }
           },
           {
@@ -147,7 +133,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "problem solving.md",
+                "file": "Python.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -162,7 +148,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "problem solving"
+              "title": "Python"
             }
           },
           {
@@ -171,7 +157,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "transition to python.md",
+                "file": "lesson 1.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -186,11 +172,11 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "transition to python"
+              "title": "lesson 1"
             }
           }
         ],
-        "currentTab": 5
+        "currentTab": 4
       }
     ],
     "direction": "vertical"
@@ -360,26 +346,27 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "4f5a837e4447271f",
+  "active": "273403b9faba540b",
   "lastOpenFiles": [
-    "conflict-files-obsidian-git.md",
-    "our future.md",
+    "lesson 0.md",
+    "lesson 1.md",
+    "problem solving.md",
+    "what follow your dream misses.md",
+    "Python.md",
+    "transition to python.md",
     "adapt.md",
     "choose you goal.md",
     "delusional optimisim.md",
+    "conflict-files-obsidian-git.md",
     "motivation.md",
-    "transition to python.md",
-    "problem solving.md",
     "Untitled 1.md",
     "Start.md",
     "how to actually learn to code.md",
     "problems.md",
     "Untitled.md",
-    "lesson 0.md",
     "japanese quote.md",
     "Chapter 2.md",
     "AnimationScene.mp4",
-    "lesson 1.md",
     "Chapter 3.md",
     "example.md",
     "explanation.md",
@@ -387,7 +374,6 @@
     "syntax.md",
     "operators.md",
     "Variables.md",
-    "Python.md",
     "cpu and memory.md",
     "Untitled"
   ]
