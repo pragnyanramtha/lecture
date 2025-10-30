@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "motivation.md",
+                "file": "Isolation.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -28,17 +28,31 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "motivation"
+              "title": "Isolation"
             }
           },
           {
             "id": "c9ecaa759b2ee0f5",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {},
-              "icon": "lucide-git-fork",
-              "title": "Graph view"
+              "type": "markdown",
+              "state": {
+                "file": "lesson 1.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "lesson 1"
             }
           }
         ]
@@ -118,7 +132,7 @@
         "state": {
           "type": "backlink",
           "state": {
-            "file": "motivation.md",
+            "file": "Isolation.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -177,6 +191,18 @@
   },
   "active": "6661ddb3fce148e6",
   "lastOpenFiles": [
-    "Start.md"
+    "adapt.md",
+    "Isolation.md",
+    "choose you goal.md",
+    "motivation.md",
+    "lesson 1.md",
+    "lesson 0.md",
+    "transition to python.md",
+    "problem solving.md",
+    "our future.md",
+    "delusional optimisim.md",
+    "Start.md",
+    "Untitled.md",
+    "problems.md"
   ]
 }
