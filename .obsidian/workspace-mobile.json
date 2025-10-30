@@ -41,7 +41,8 @@
               "title": "Graph view"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -175,10 +176,16 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "6661ddb3fce148e6",
+  "active": "c9ecaa759b2ee0f5",
   "lastOpenFiles": [
+    "our future.md",
+    "problem solving.md",
+    "Start.md",
+    "motivation.md",
+    "delusional optimisim.md",
+    "choose you goal.md",
+    "adapt.md",
     "Untitled.md",
-    "problems.md",
-    "Start.md"
+    "problems.md"
   ]
 }

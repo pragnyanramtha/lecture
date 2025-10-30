@@ -20,7 +20,7 @@ if you have a goal right now, i want you to only think about that goal, that end
 
 don't think about how frustrating building a website is , think about the revenue you will be making form it.
 
-don't think about how hard the coding problems are , think about you solving them in a technical interview.
+don't think about how hard the coding problems are , think about you solving them in a technical interview at google.
 
 once you do this enough , you start to love the process , you don't need motivation , you don't feel like giving up, you actually want it.  
 
