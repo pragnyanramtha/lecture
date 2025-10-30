@@ -1,0 +1,3 @@
+Let's start with the first one. And think this is one of the most powerful lessons from this list. Real growth happens in isolation. When look back into my life, when first went to inter college, I was dumb af, had zero confidence. And failed in the first weekly exams.
+
+ But cut to 2023, just 1 years later, I've improved in every single thing possible. I went from being dumb to a nerd. From zero confidence to speaking in front of you, i become the first  . was literally topping the class at Khalpur in a couple of courses and all this growth happened only because pulled back from my social circle when

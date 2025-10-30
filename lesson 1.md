@@ -32,5 +32,4 @@ manim animation of 2 x 2 tiling of different colored boxes
 
 zoom into Syntax first 
 
-
-[[syntax]]
+[[how to actually learn to code]]
