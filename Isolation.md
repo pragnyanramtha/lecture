@@ -1,4 +1,4 @@
-Let's start with the first one. And think this is one of the most powerful lessons from this list. 
+	Let's start with the first one. And think this is one of the most powerful lessons from this list. 
 
 Real growth happens in isolation.
 
