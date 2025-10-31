@@ -47,7 +47,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Goals.md",
+                "file": "mtv.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -62,10 +62,11 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Goals"
+              "title": "mtv"
             }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -199,18 +200,18 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "b09321d54880e0e4",
+  "active": "9afc536abb27820d",
   "lastOpenFiles": [
+    "Start.md",
+    "Goals.md",
+    "Rat's Cage.md",
     "Isolation.md",
     "adapt.md",
     "choose you goal.md",
-    "Goals.md",
     "delusional optimisim.md",
     "motivation.md",
-    "Start.md",
     "hard work.md",
     "framework.md",
-    "Rat's Cage.md",
     "lesson 1.md",
     "lesson 0.md",
     "transition to python.md",
