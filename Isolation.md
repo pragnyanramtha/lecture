@@ -1,4 +1,4 @@
-	Let's start with the first one. And think this is one of the most powerful lessons from this list. 
+Let's start with the first one. And think this is one of the most powerful lessons from this list. 
 
 Real growth happens in isolation.
 
@@ -8,7 +8,7 @@ And failed in the first weekly exams.
 
 But cut to 2025, just 2 years later,
 I've improved in every single thing possible.
-I went from who needed to explanations to someone who explained stuff.
+I went from someone who needed to explanations to someone who explained stuff.
 From zero confidence to speaking in front of all of you,
 All this growth happened only because i pulled back from my social circle 
 when i went into complete ghost mode. 

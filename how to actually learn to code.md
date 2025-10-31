@@ -1,5 +1,11 @@
 
 
+its okay 
+
+there is a time in you life where you don't understand Python and there is a time in you life where you do 
+
+and there is nothing in between add you have to do is a take a leap of faith 
+
 ## 3. Stop Watching
 
 

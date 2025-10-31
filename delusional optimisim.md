@@ -10,7 +10,7 @@ YOU cannot beat this guy who is just obsessed to work.
 
 Now, then how do you become **obsessed ?**
 
-now at this point if you still listening and don't agree with me, i don't want you to misunderstand me, sure you can get a decent job and get a decent salary, but if you agree  
+now at this point if you still listening and don't agree with me, i don't want you to misunderstand me, sure you can get a decent job and get a decent salary, but if you agree .
 
 i want you to try and understand what i am conveying .
 

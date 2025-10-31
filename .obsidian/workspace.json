@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "1452b95656fcbd4c",
+        "id": "ff994a19696458a9",
         "type": "tabs",
         "children": [
           {
-            "id": "e21333af2113cf98",
+            "id": "774b8c3c34c8bc6c",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "motivation.md",
+                "file": "story.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -28,16 +28,16 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "motivation"
+              "title": "story"
             }
           },
           {
-            "id": "72c8ab06483af63a",
+            "id": "6c60a02a0fa566f6",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "delusional optimisim.md",
+                "file": "japanese quote.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -52,11 +52,35 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "delusional optimisim"
+              "title": "japanese quote"
             }
           },
           {
-            "id": "1e2450a83243a93b",
+            "id": "947f539a8f00252f",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Goals.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "Goals"
+            }
+          },
+          {
+            "id": "58608a630f43ee94",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -80,7 +104,7 @@
             }
           },
           {
-            "id": "3bf5b977f45d9860",
+            "id": "198c6c126db9500d",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -104,7 +128,7 @@
             }
           },
           {
-            "id": "f91b10cb3b8a235a",
+            "id": "a8178461da5ba4b1",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -128,7 +152,7 @@
             }
           },
           {
-            "id": "5a36fe6d243be9e9",
+            "id": "9c9eb70768cc8b0f",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -152,7 +176,7 @@
             }
           },
           {
-            "id": "15d224564b0f4885",
+            "id": "773b548c4368341b",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -176,7 +200,7 @@
             }
           },
           {
-            "id": "0dd6dacc9712c0d7",
+            "id": "12886bead5c82b1e",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -200,7 +224,7 @@
             }
           },
           {
-            "id": "f7b57df5395510aa",
+            "id": "2b585c3a8b6ad804",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -224,7 +248,7 @@
             }
           },
           {
-            "id": "93f331cc4fe1a462",
+            "id": "de0727494b00c376",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -248,7 +272,7 @@
             }
           },
           {
-            "id": "0b8a598e901d5c5e",
+            "id": "2c063510395d36d1",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -272,7 +296,7 @@
             }
           },
           {
-            "id": "f1d2a1e8fc909943",
+            "id": "e6c95bf15ecd4e51",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -295,8 +319,7 @@
               "title": "story"
             }
           }
-        ],
-        "currentTab": 4
+        ]
       }
     ],
     "direction": "vertical"
@@ -417,23 +440,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "motivation.md",
+                "file": "choose you goal.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of motivation"
-            }
-          },
-          {
-            "id": "060f9f82cf156e50",
-            "type": "leaf",
-            "state": {
-              "type": "graph",
-              "state": {},
-              "icon": "lucide-git-fork",
-              "title": "Graph view"
+              "title": "Outline of choose you goal"
             }
           },
           {
@@ -445,13 +458,37 @@
               "icon": "git-pull-request",
               "title": "Source Control"
             }
+          },
+          {
+            "id": "e21333af2113cf98",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "choose you goal.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "choose you goal"
+            }
           }
         ],
-        "currentTab": 5
+        "currentTab": 4
       }
     ],
     "direction": "horizontal",
-    "width": 406.5
+    "width": 649.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -467,21 +504,25 @@
   },
   "active": "273403b9faba540b",
   "lastOpenFiles": [
-    "conflict-files-obsidian-git.md",
     "Goals.md",
-    "Isolation.md",
-    "adapt.md",
-    "choose you goal.md",
+    "story.md",
+    "japanese quote.md",
     "delusional optimisim.md",
-    "motivation.md",
+    "mtv.md",
+    "Start.md",
     "step 3  - results.md",
     "step 2 - work.md",
     "step 1 - trigger.md",
-    "story.md",
     "framework.md",
     "hard work.md",
     "Rat's Cage.md",
-    "Start.md",
+    "Isolation.md",
+    "adapt.md",
+    "choose you goal.md",
+    "AnimationScene.mp4",
+    "delusional  optimisim.md",
+    "how to actually learn to code.md",
+    "conflict-files-obsidian-git.md",
     "Python.md",
     "our future.md",
     "lesson 0.md",
@@ -489,11 +530,7 @@
     "problem solving.md",
     "what follow your dream misses.md",
     "transition to python.md",
-    "how to actually learn to code.md",
     "problems.md",
-    "Untitled.md",
-    "japanese quote.md",
-    "AnimationScene.mp4",
     "Untitled"
   ]
 }

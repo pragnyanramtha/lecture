@@ -14,8 +14,6 @@ so let me ask you ? what is your goal , what do you want ? what do you want to a
 
 If you don't have a goal? i would recommend you find one , doesn't matter if your goal is to be the best, impress your crush , get a job or simply to earn money.  
 
-I actually think not having goal might actually put you at an advantage, because you can design your goal in such a way that suits your needs.
-
 all you need is to find that goal and be heads down chasing it.
 
 [[choose you goal]]
