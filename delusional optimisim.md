@@ -1,9 +1,11 @@
-if you are still think that watching lectures and grinding python problems
-will make you better.
+Firstly,
+
+if you are still think that watching lectures and grinding python problems will make you better.
 
 **if you still think** that discipline is all it takes to become the best .
-
+And 
 if you force yourself to work or solve problems.
+
 you can never beat the person who just wants too.
 
 YOU cannot beat this guy who is just obsessed to work.
