@@ -7,6 +7,8 @@ Every single time wanted to try new stuff, I used to think about what will my re
 
 So, you're not a slave of someone's image of you. You're a free bird just as they are and you can do whatever the i you want if it aligns with your goals. So sometimes feel free to break the image that people have about you just because you can. 
 
-# todo: expand
+Do i look like i give a shit about my appearance?
+
+Do you really think I care about what everyone thinks about me ?
 
 [[hard work]]

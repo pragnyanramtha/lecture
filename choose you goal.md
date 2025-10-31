@@ -6,7 +6,7 @@ so if you are ambitions , should money even be your goal ?
 
 happiness isn't about circumstance, its just about your perspective.
 
-You can choose what fulfils you 
+You can choose what fulfils you
 
 and i choose 3 things, skill - status and relationships 
 

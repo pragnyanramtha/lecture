@@ -10,7 +10,6 @@ But cut to 2025, just 2 years later,
 I've improved in every single thing possible.
 I went from who needed to explanations to someone who explained stuff.
 From zero confidence to speaking in front of all of you,
-i become the first person in my college who could make real applications.
 All this growth happened only because i pulled back from my social circle 
 when i went into complete ghost mode. 
  

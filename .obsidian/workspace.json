@@ -128,6 +128,30 @@
             }
           },
           {
+            "id": "7e123418a36501d6",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "conflict-files-obsidian-git.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "conflict-files-obsidian-git"
+            }
+          },
+          {
             "id": "5a36fe6d243be9e9",
             "type": "leaf",
             "state": {
@@ -296,7 +320,7 @@
             }
           }
         ],
-        "currentTab": 4
+        "currentTab": 5
       }
     ],
     "direction": "vertical"
@@ -465,8 +489,10 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "273403b9faba540b",
+  "active": "7e123418a36501d6",
   "lastOpenFiles": [
+    "conflict-files-obsidian-git.md",
+    "Goals.md",
     "Isolation.md",
     "adapt.md",
     "choose you goal.md",
@@ -483,7 +509,6 @@
     "Python.md",
     "our future.md",
     "lesson 0.md",
-    "conflict-files-obsidian-git.md",
     "lesson 1.md",
     "problem solving.md",
     "what follow your dream misses.md",
@@ -492,7 +517,6 @@
     "problems.md",
     "Untitled.md",
     "japanese quote.md",
-    "Chapter 2.md",
     "AnimationScene.mp4",
     "Untitled"
   ]
