@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "story.md",
+                "file": "math functions.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -28,31 +28,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "story"
-            }
-          },
-          {
-            "id": "6c60a02a0fa566f6",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "japanese quote.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "japanese quote"
+              "title": "math functions"
             }
           },
           {
@@ -61,7 +37,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Goals.md",
+                "file": "Functions.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -76,7 +52,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Goals"
+              "title": "Functions"
             }
           },
           {
@@ -319,7 +295,8 @@
               "title": "story"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -502,11 +479,13 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "273403b9faba540b",
+  "active": "947f539a8f00252f",
   "lastOpenFiles": [
+    "math functions.md",
+    "Functions.md",
     "Goals.md",
-    "story.md",
     "japanese quote.md",
+    "story.md",
     "delusional optimisim.md",
     "mtv.md",
     "Start.md",
@@ -529,8 +508,6 @@
     "lesson 1.md",
     "problem solving.md",
     "what follow your dream misses.md",
-    "transition to python.md",
-    "problems.md",
     "Untitled"
   ]
 }
