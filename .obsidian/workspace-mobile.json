@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "mtv.md",
+                "file": "choose you goal.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -28,7 +28,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "mtv"
+              "title": "choose you goal"
             }
           }
         ]
@@ -167,10 +167,10 @@
   },
   "active": "b91bb3afc58f59e8",
   "lastOpenFiles": [
-    "Start.md",
-    "mtv.md",
-    "delusional optimisim.md",
     "Goals.md",
+    "delusional optimisim.md",
+    "mtv.md",
+    "Start.md",
     "Rat's Cage.md",
     "Isolation.md",
     "adapt.md",
