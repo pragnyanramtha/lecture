@@ -8,12 +8,12 @@
         "type": "tabs",
         "children": [
           {
-            "id": "b09321d54880e0e4",
+            "id": "b91bb3afc58f59e8",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Rat's Cage.md",
+                "file": "choose you goal.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -28,41 +28,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Rat's Cage"
-            }
-          },
-          {
-            "id": "b91bb3afc58f59e8",
-            "type": "leaf",
-            "state": {
-              "type": "graph",
-              "state": {},
-              "icon": "lucide-git-fork",
-              "title": "Graph view"
-            }
-          },
-          {
-            "id": "9afc536abb27820d",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Goals.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": true,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "Goals"
+              "title": "choose you goal"
             }
           }
         ]
@@ -199,18 +165,19 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "b09321d54880e0e4",
+  "active": "b91bb3afc58f59e8",
   "lastOpenFiles": [
+    "Goals.md",
+    "delusional optimisim.md",
+    "mtv.md",
+    "Start.md",
+    "Rat's Cage.md",
     "Isolation.md",
     "adapt.md",
     "choose you goal.md",
-    "Goals.md",
-    "delusional optimisim.md",
     "motivation.md",
-    "Start.md",
     "hard work.md",
     "framework.md",
-    "Rat's Cage.md",
     "lesson 1.md",
     "lesson 0.md",
     "transition to python.md",
