@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "adapt.md",
+                "file": "choose you goal.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -28,7 +28,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "adapt"
+              "title": "choose you goal"
             }
           }
         ]
@@ -108,7 +108,7 @@
         "state": {
           "type": "backlink",
           "state": {
-            "file": "Isolation.md",
+            "file": "choose you goal.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -167,8 +167,8 @@
   },
   "active": "b91bb3afc58f59e8",
   "lastOpenFiles": [
-    "choose you goal.md",
     "adapt.md",
+    "choose you goal.md",
     "Goals.md",
     "delusional optimisim.md",
     "mtv.md",
