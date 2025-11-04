@@ -1,6 +1,6 @@
  
 
-I AM Pragnyan Ramtha, Currently 17, and an AI research scientist. 
+I AM Pragnyan Ramtha, Currently 17, and a programmer. 
 
 and let me tell you something, I can confidently say that i am way lazier than you but i am certain that i can achieve things in my life than you can never expect.   
 
