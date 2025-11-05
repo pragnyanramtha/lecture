@@ -1,11 +1,6 @@
-[[mtv]]
 
 Hello, World 
 
-So recently , i have been meaning to talk will all about a few things that cannot be communicated online.
-
-before that, for those of me that don't know me , well 
-
-before that, for those of me that don't already know me , well 
+So recently , i have been meaning to talk will all about a few important things with all of you, this includes how you are learning which is kinda baffling to me actually .
 
 [[mtv]]

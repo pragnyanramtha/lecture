@@ -1,4 +1,5 @@
- 
+before that, if you are new here , 
+
 
 I AM Pragnyan Ramtha, Currently 17, and a software developer.
 
