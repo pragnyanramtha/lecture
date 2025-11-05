@@ -6,4 +6,6 @@ So recently , i have been meaning to talk will all about a few things that canno
 
 before that, for those of me that don't know me , well 
 
+before that, for those of me that don't already know me , well 
 
+[[mtv]]

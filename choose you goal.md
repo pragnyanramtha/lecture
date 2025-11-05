@@ -1,5 +1,7 @@
 some of you were like how can money be a goal ?
 
+I mean sure,
+
 money doesn't buy happiness, but there are rich people who are way happier than you. 
 
 so if you are ambitions , should money even be your goal ? 
@@ -8,17 +10,21 @@ happiness isn't about circumstance, its just about your perspective.
 
 You can choose what fulfils you
 
-and i choose 3 things, skill - status and relationships 
+and i choose 3 things which i think you choose too , skill - status and relationships 
 
-skill - to build whatever i want 
+Kinda vague , but let me explain myself 
 
-status - to have to freedom to choose what i own, to buy what i want 
+skill - to build whatever i want, if i have an idea about a app , i should be able to be able to build it , the things i can build should be limited to my imagination and ideas not my skill.
+
+And secondly 
+
+status - to have to freedom to choose what i own, to have the ability to buy what i want 
 
 relationships - so i can share that life with whoever i want. 
 
-but remember that , its not the achievements that that make you happy , its the growth you make in that process.
+but remember that , its not the achievements that make you happy , its the growth you make in that process.
 
-How do you adapt ? but how do you grow ?
+How then again do you adapt ? but how do you grow ?
 
 [[adapt]]
 
