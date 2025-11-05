@@ -37,7 +37,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "mtv.md",
+                "file": "delusional optimisim.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -52,11 +52,10 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "mtv"
+              "title": "delusional optimisim"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -225,10 +224,11 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "273403b9faba540b",
+  "active": "cefded3c90d762a5",
   "lastOpenFiles": [
-    "Start.md",
+    "delusional optimisim.md",
     "mtv.md",
+    "Start.md",
     "math functions.md",
     "Functions.md",
     "choose you goal.md",
@@ -241,7 +241,6 @@
     "Rat's Cage.md",
     "Isolation.md",
     "adapt.md",
-    "delusional optimisim.md",
     "Goals.md",
     "japanese quote.md",
     "AnimationScene.mp4",
