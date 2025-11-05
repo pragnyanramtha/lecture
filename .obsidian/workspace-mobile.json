@@ -8,12 +8,12 @@
         "type": "tabs",
         "children": [
           {
-            "id": "b09321d54880e0e4",
+            "id": "b91bb3afc58f59e8",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Rat's Cage.md",
+                "file": "delusional optimisim.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -28,45 +28,10 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Rat's Cage"
-            }
-          },
-          {
-            "id": "b91bb3afc58f59e8",
-            "type": "leaf",
-            "state": {
-              "type": "graph",
-              "state": {},
-              "icon": "lucide-git-fork",
-              "title": "Graph view"
-            }
-          },
-          {
-            "id": "9afc536abb27820d",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Goals.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": true,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "Goals"
+              "title": "delusional optimisim"
             }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "vertical"
@@ -143,7 +108,7 @@
         "state": {
           "type": "backlink",
           "state": {
-            "file": "Isolation.md",
+            "file": "choose you goal.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -200,16 +165,16 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "9afc536abb27820d",
+  "active": "b91bb3afc58f59e8",
   "lastOpenFiles": [
-    "delusional optimisim.md",
-    "Goals.md",
     "mtv.md",
     "Start.md",
+    "delusional optimisim.md",
+    "Goals.md",
+    "choose you goal.md",
+    "adapt.md",
     "Rat's Cage.md",
     "Isolation.md",
-    "adapt.md",
-    "choose you goal.md",
     "motivation.md",
     "hard work.md",
     "framework.md",

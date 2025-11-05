@@ -4,30 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "ff994a19696458a9",
+        "id": "ac36bc8a6150a950",
         "type": "tabs",
         "children": [
           {
-            "id": "774b8c3c34c8bc6c",
+            "id": "cefded3c90d762a5",
             "type": "leaf",
             "state": {
               "type": "split-diff-view",
               "state": {
-                "aFile": ".obsidian/workspace.json",
-                "bFile": ".obsidian/workspace.json",
-                "aRef": ""
-              },
-              "icon": "diff",
-              "title": "Diff: workspace.json"
-            }
-          },
-          {
-            "id": "6c60a02a0fa566f6",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "japanese quote.md",
+                "file": "Start.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -42,31 +28,16 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "japanese quote"
+              "title": "Start"
             }
           },
           {
-            "id": "947f539a8f00252f",
-            "type": "leaf",
-            "state": {
-              "type": "split-diff-view",
-              "state": {
-                "aFile": ".obsidian/workspace.json",
-                "bFile": ".obsidian/workspace.json",
-                "aRef": "HEAD",
-                "bRef": ""
-              },
-              "icon": "diff",
-              "title": "Diff: workspace.json"
-            }
-          },
-          {
-            "id": "58608a630f43ee94",
+            "id": "d78724b95f5cf667",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "choose you goal.md",
+                "file": "mtv.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -81,227 +52,11 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "choose you goal"
-            }
-          },
-          {
-            "id": "198c6c126db9500d",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "adapt.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "adapt"
-            }
-          },
-          {
-            "id": "a8178461da5ba4b1",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Isolation.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "Isolation"
-            }
-          },
-          {
-            "id": "9c9eb70768cc8b0f",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Rat's Cage.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "Rat's Cage"
-            }
-          },
-          {
-            "id": "773b548c4368341b",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "hard work.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "hard work"
-            }
-          },
-          {
-            "id": "12886bead5c82b1e",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "framework.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "framework"
-            }
-          },
-          {
-            "id": "2b585c3a8b6ad804",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "step 1 - trigger.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "step 1 - trigger"
-            }
-          },
-          {
-            "id": "de0727494b00c376",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "step 2 - work.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "step 2 - work"
-            }
-          },
-          {
-            "id": "2c063510395d36d1",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "step 3  - results.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "step 3  - results"
-            }
-          },
-          {
-            "id": "e6c95bf15ecd4e51",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "story.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "story"
+              "title": "mtv"
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -445,24 +200,10 @@
             "id": "e21333af2113cf98",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "choose you goal.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "choose you goal"
+              "type": "graph",
+              "state": {},
+              "icon": "lucide-git-fork",
+              "title": "Graph view"
             }
           }
         ],
@@ -486,12 +227,12 @@
   },
   "active": "947f539a8f00252f",
   "lastOpenFiles": [
-    "Goals.md",
-    "japanese quote.md",
-    "story.md",
-    "delusional optimisim.md",
-    "mtv.md",
     "Start.md",
+    "mtv.md",
+    "math functions.md",
+    "Functions.md",
+    "choose you goal.md",
+    "story.md",
     "step 3  - results.md",
     "step 2 - work.md",
     "step 1 - trigger.md",
@@ -500,7 +241,9 @@
     "Rat's Cage.md",
     "Isolation.md",
     "adapt.md",
-    "choose you goal.md",
+    "delusional optimisim.md",
+    "Goals.md",
+    "japanese quote.md",
     "AnimationScene.mp4",
     "delusional  optimisim.md",
     "how to actually learn to code.md",
@@ -511,8 +254,6 @@
     "lesson 1.md",
     "problem solving.md",
     "what follow your dream misses.md",
-    "transition to python.md",
-    "problems.md",
     "Untitled"
   ]
 }
