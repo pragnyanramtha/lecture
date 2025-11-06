@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Start.md",
+                "file": "mtv.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -28,7 +28,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Start"
+              "title": "mtv"
             }
           }
         ]
@@ -167,8 +167,8 @@
   },
   "active": "b5550637c0685279",
   "lastOpenFiles": [
-    "mtv.md",
     "Start.md",
+    "mtv.md",
     "conflict-files-obsidian-git.md",
     "delusional optimisim.md",
     "Goals.md",
