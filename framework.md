@@ -1,5 +1,5 @@
 
-But again, coming back to the framework, we have three steps in this.
+But again, coming back to the path we have three steps in this.
 
 step 1
 [[step 1 - trigger]]

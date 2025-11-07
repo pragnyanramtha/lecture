@@ -12,7 +12,7 @@ But obviously , this mindset won't work unless you have a goal.
 
 so let me ask you ? what is your goal , what do you want ? what do you want to achieve. 
 
-If you don't have a goal? i would recommend you find one , doesn't matter if your goal is in your the programming field or to be the best, impress your crush , get a job, be happy or simply to earn money.  
+If you don't have a goal? i would recommend you find one , doesn't matter if your goal is in Computer science or entrepreneurship or literally to earn lots money.  
 
 all you need is to find that goal and be heads down chasing it.
 

@@ -1,6 +1,6 @@
 Let's start with the first one. And think this is one of the most powerful lessons from this list. 
 
-Real growth happens in isolation.
+Real growth happens when you lock in.
 
 When look back into my life, when first went to inter college,
 I was dumb af, had zero confidence. 
@@ -19,5 +19,12 @@ Now you don't need to stop talking to all of your friends for months and months 
 
 The days you don't spend time with yourself are the days that you drift.
 If you're always surrounded by noise, you'll never hear your own mind.
+
+But Ramtha ? how do you LOCK IN ?
+I have never done it before ?
+NO, YOU have done it, indeed you do it everyday.
+When you play your favorite game , you lock in.
+when you watch reels you lock in.
+and when you have a goal you need to achieve you lock in.
 
 [[Rat's Cage]]
