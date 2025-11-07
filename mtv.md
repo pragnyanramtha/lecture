@@ -1,6 +1,6 @@
  
 
-I AM Pragnyan Ramtha, Currently 17, and a software developer.
+I AM Pragnyan Ramtha, 1m 17, and lets say a software developer.
 
 That's the part some of you know 
 

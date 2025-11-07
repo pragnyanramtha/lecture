@@ -1,8 +1,9 @@
 Firstly,
 
-if you are still think that watching lectures and grinding python problems will make you better.
+if you are still think that watching lectures and working all day will make you better.
 
 **if you still think** that discipline is all it takes to become the best .
+
 And 
 
 if you force yourself to work or solve problems.
@@ -19,7 +20,7 @@ you don't need to be the smartest person in the room
 
 but you need the most obsessed one  
 
-and that is the key to growth 
+and that is the key to your growth 
 
 Now, then how do you become **obsessed ?**
 
