@@ -1,6 +1,6 @@
- 
+ i
 
-I AM Pragnyan Ramtha, 1m 17, and lets say a software developer.
+I AM Pragnyan Ramtha, im 17, and lets say a software developer.
 
 That's the part some of you know 
 

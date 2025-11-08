@@ -11,10 +11,24 @@
             "id": "88121bf02685f5b2",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "step 3  - results.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
               "icon": "lucide-file",
-              "title": "New tab"
+              "title": "step 3  - results"
             }
           }
         ]
@@ -198,15 +212,6 @@
   },
   "active": "88121bf02685f5b2",
   "lastOpenFiles": [
-    "mtv.md",
-    "delusional optimisim.md",
-    "Start.md",
-    "conflict-files-obsidian-git.md",
-    "math functions.md",
-    "Functions.md",
-    "choose you goal.md",
-    "story.md",
-    "step 3  - results.md",
     "step 2 - work.md",
     "step 1 - trigger.md",
     "framework.md",
@@ -214,7 +219,16 @@
     "Rat's Cage.md",
     "Isolation.md",
     "adapt.md",
+    "choose you goal.md",
     "Goals.md",
+    "delusional optimisim.md",
+    "mtv.md",
+    "Start.md",
+    "conflict-files-obsidian-git.md",
+    "math functions.md",
+    "Functions.md",
+    "story.md",
+    "step 3  - results.md",
     "japanese quote.md",
     "AnimationScene.mp4",
     "delusional  optimisim.md",

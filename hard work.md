@@ -1,5 +1,5 @@
 
-Now before explain the next point, here's a question for you.
+Now before i explain the next point, here's a question for you.
 
 Have you ever worked really hard to achieve something in your life? Think about it. Have you ever tried to give your best to achieve something in your life and failed? But if you never tried, you should actually try it first. But if you did, maybe you can relate to the next thing that I'm saying. For someone who's working hard towards their goals, 
 

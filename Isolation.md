@@ -2,7 +2,7 @@ Let's start with the first one. And think this is one of the most powerful lesso
 
 Real growth happens when you lock in.
 
-When look back into my life, when first went to inter college,
+When i look back into my life, when first went to inter college,
 I was dumb af, had zero confidence. 
 And failed in the first weekly exams.
 
