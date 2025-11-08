@@ -1,9 +1,12 @@
 
-Now, this gets us to the second point, which is to stop living like a rat in someone's cage.
+Now, this gets us to the second point, which is to stop living like a bird in a someone's cage.
 
 For a very long time in my life, 
 I used worry about what other people think of me very seriously. 
 Every single time i wanted to try new stuff, I used to think about what will my relatives think of me, what will my friends, what will my parents think of me ? 
+and i think that some people still do this though subconsciously.
+
+you see in life you can only ever live as yourself you obviously cant switch bodies with anyone, so when but the least you can do is be who you truly want to be.
 
 You don't need to be the guy who they think you are .
 

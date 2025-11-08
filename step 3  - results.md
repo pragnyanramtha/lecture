@@ -5,6 +5,8 @@
 Every day at a specific time you sit down to fight the battle with the world and 
 every week i want you to give yourself some feedback.
 
+I want you to share your work with the world , trust me the last thing you wanna do is lock in for a month for a project just to realize , no one actually cares about your project. 
+
 understand what you have done, seek out what you have achieved. 
 
 But then this leads to a different problem which is people put in the efforts and then
