@@ -6,6 +6,9 @@ he said something to me that changed how I was learning until that point.
 
 he said something to me that had me thinking ever since,
 
-before that , if you were living under a rock, and somehow were not bothered by my presence, let me introduce myself again.
+Now i won't tell you what he told me exactly, but , I'll share something similar.
+
+Btw, if you are wondering who is this guy talking shit on the stage is, well it's about time you know.
+
 
 [[mtv]]
