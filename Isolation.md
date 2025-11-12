@@ -1,4 +1,4 @@
-$you see, Real growth happens when you lock in.
+you see, Real growth happens when you lock in.
 
 When i look back into my life, when first went to inter college,
 I was dumb af, had zero confidence. 

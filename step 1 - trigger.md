@@ -7,4 +7,4 @@ your trigger can be an alarm , a timer , a specific period in college, or after 
 
 the timing isn't the issue, it's you ability to lock in.
 
-[[step 2 - work]]
+[[step 2 - work and learn]]

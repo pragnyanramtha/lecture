@@ -1,5 +1,5 @@
 
-I AM Pragnyan Ramtha, currently 17 and i'm currently working as a open source contributor.    
+I AM Pragnyan Ramtha, 17 y/o and i'm currently working as a open source contributor.    
 
 That's the part some of you know 
 
