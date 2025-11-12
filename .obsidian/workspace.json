@@ -1,34 +1,24 @@
 {
   "main": {
-    "id": "9afcd3aa0d38263e",
+    "id": "b1242b8aa8b8ba10",
     "type": "split",
     "children": [
       {
-        "id": "d775bc2d67e4c66f",
+        "id": "f238513125f7bb76",
         "type": "tabs",
         "children": [
           {
-            "id": "88121bf02685f5b2",
+            "id": "d3427d8b6b8c7377",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "step 3  - results.md",
+                "file": "framework.md",
                 "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
+                "source": false
               },
               "icon": "lucide-file",
-              "title": "step 3  - results"
+              "title": "framework"
             }
           }
         ]
@@ -37,15 +27,15 @@
     "direction": "vertical"
   },
   "left": {
-    "id": "e91907f977e7990b",
+    "id": "04a4ae97064e2acc",
     "type": "split",
     "children": [
       {
-        "id": "2cb6806feb8fa02c",
+        "id": "9b931353ba77c889",
         "type": "tabs",
         "children": [
           {
-            "id": "610a54c11bf34203",
+            "id": "81611593d2a51f44",
             "type": "leaf",
             "state": {
               "type": "file-explorer",
@@ -58,7 +48,7 @@
             }
           },
           {
-            "id": "d982e9307ae92080",
+            "id": "ef242173228b3adc",
             "type": "leaf",
             "state": {
               "type": "search",
@@ -75,7 +65,7 @@
             }
           },
           {
-            "id": "f5e6b9f4ef52f77c",
+            "id": "7a8947e599bf2b76",
             "type": "leaf",
             "state": {
               "type": "bookmarks",
@@ -88,23 +78,23 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 300
   },
   "right": {
-    "id": "cd58c165c3b3dd20",
+    "id": "18309075f2629205",
     "type": "split",
     "children": [
       {
-        "id": "1dba065358a2d41c",
+        "id": "0bb81b510c2984bb",
         "type": "tabs",
         "children": [
           {
-            "id": "064dcc8041588ede",
+            "id": "498874235854cdfd",
             "type": "leaf",
             "state": {
               "type": "backlink",
               "state": {
-                "file": "motivation.md",
+                "file": "framework.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -114,25 +104,25 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for motivation"
+              "title": "Backlinks for framework"
             }
           },
           {
-            "id": "ca564b2d2063805a",
+            "id": "76a09651b5f54b6e",
             "type": "leaf",
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "motivation.md",
+                "file": "framework.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from motivation"
+              "title": "Outgoing links from framework"
             }
           },
           {
-            "id": "9c81ad5a5d808a92",
+            "id": "58e9a0c7d254b3b2",
             "type": "leaf",
             "state": {
               "type": "tag",
@@ -147,42 +137,28 @@
             }
           },
           {
-            "id": "f2065c8b8457c6e6",
+            "id": "526e243e992e4478",
             "type": "leaf",
             "state": {
               "type": "outline",
               "state": {
-                "file": "choose you goal.md",
+                "file": "framework.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of choose you goal"
+              "title": "Outline of framework"
             }
-          },
+          }
+        ]
+      },
+      {
+        "id": "8528982afab8625b",
+        "type": "tabs",
+        "children": [
           {
-            "id": "273403b9faba540b",
-            "type": "leaf",
-            "state": {
-              "type": "git-view",
-              "state": {},
-              "icon": "git-pull-request",
-              "title": "Source Control"
-            }
-          },
-          {
-            "id": "e21333af2113cf98",
-            "type": "leaf",
-            "state": {
-              "type": "graph",
-              "state": {},
-              "icon": "lucide-git-fork",
-              "title": "Graph view"
-            }
-          },
-          {
-            "id": "cefded3c90d762a5",
+            "id": "80f9ce88340b96dd",
             "type": "leaf",
             "state": {
               "type": "graph",
@@ -191,54 +167,39 @@
               "title": "Graph view"
             }
           }
-        ],
-        "currentTab": 4
+        ]
       }
     ],
     "direction": "horizontal",
-    "width": 649.5
+    "width": 765.5
   },
   "left-ribbon": {
     "hiddenItems": {
-      "graph:Open graph view": false,
       "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
       "canvas:Create new canvas": false,
       "daily-notes:Open today's daily note": false,
       "templates:Insert template": false,
       "command-palette:Open command palette": false,
-      "bases:Create new base": false,
-      "obsidian-git:Open Git source control": false
+      "bases:Create new base": false
     }
   },
-  "active": "88121bf02685f5b2",
+  "active": "d3427d8b6b8c7377",
   "lastOpenFiles": [
+    "hard work.md",
+    "framework.md",
+    "story.md",
+    "step 3  - results.md",
     "step 2 - work.md",
     "step 1 - trigger.md",
-    "framework.md",
-    "hard work.md",
-    "Rat's Cage.md",
+    "birds Cage.md",
     "Isolation.md",
-    "adapt.md",
     "choose you goal.md",
+    "Untitled.base",
+    "adapt.md",
     "Goals.md",
     "delusional optimisim.md",
     "mtv.md",
-    "Start.md",
-    "conflict-files-obsidian-git.md",
-    "math functions.md",
-    "Functions.md",
-    "story.md",
-    "step 3  - results.md",
-    "japanese quote.md",
-    "AnimationScene.mp4",
-    "delusional  optimisim.md",
-    "how to actually learn to code.md",
-    "Python.md",
-    "our future.md",
-    "lesson 0.md",
-    "lesson 1.md",
-    "problem solving.md",
-    "what follow your dream misses.md",
-    "Untitled"
+    "Start.md"
   ]
 }

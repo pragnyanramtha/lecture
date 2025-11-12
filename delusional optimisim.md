@@ -24,7 +24,4 @@ and that is the key to your growth
 
 Now, then how do you become **obsessed ?**
 
-i want you to try and understand what i am conveying .
-
-
 [[Goals]]

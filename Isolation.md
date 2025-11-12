@@ -1,6 +1,4 @@
-Let's start with the first one. And think this is one of the most powerful lessons from this list. 
-
-Real growth happens when you lock in.
+you see, Real growth happens when you lock in.
 
 When i look back into my life, when first went to inter college,
 I was dumb af, had zero confidence. 
@@ -27,4 +25,6 @@ When you play your favorite game , you lock in.
 when you watch reels you lock in.
 and when you have a goal you need to achieve you lock in.
 
-[[Rat's Cage]]
+
+
+[[birds Cage]]

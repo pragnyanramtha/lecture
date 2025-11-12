@@ -1,5 +1,5 @@
 
-Now, this gets us to the second point, which is to stop living like a bird in a someone's cage.
+Now, this gets us to another point, which is to stop living like a bird in a someone's cage.
 
 For a very long time in my life, 
 I used worry about what other people think of me very seriously. 
@@ -15,4 +15,11 @@ you don't need to give a shit about what others will think of you.
 
 So sometimes feel free to break the image that people have about you just because you can. 
 
-[[hard work]]
+if you can't be happy with yourself, you can never be happy with anyone else. 
+
+Now the next one is the secret to reach your goals faster and it is the exact path i use to achieve goals faster in my life. 
+
+See, as a disclaimer, i  don't consider myself to be successful yet because I'm fighting my own battles every day. I'm just like you, maybe a few steps ahead, but still have a lot to do in my own life.
+
+
+[[framework]]

@@ -13,7 +13,9 @@ But obviously , this mindset won't work unless you have a goal.
 
 so let me ask you ? what is your goal , what do you want ? what do you want to achieve. 
 
-If you don't have a goal? i would recommend you find one , doesn't matter if your goal is in Computer science or entrepreneurship or literally to earn lots money.  
+Now it doesn't matter if your goal in related of computer science, because if your goal is not in computer science, just let me ask you what have you done in the past month to get closer to it ?
+
+And If you don't have a goal at all ? well, i would recommend you find one, doesn't matter if your goal is in Computer science or entrepreneurship or literally to earn lots money.  
 
 all you need is to find that goal and be heads down chasing it.
 
