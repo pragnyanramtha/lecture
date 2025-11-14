@@ -13,15 +13,30 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "step 3  - results.md",
+                "file": "step 2 - work and learn.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "step 3  - results"
+              "title": "step 2 - work and learn"
+            }
+          },
+          {
+            "id": "6c6356f2f3161337",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "step 2 - work and learn.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "step 2 - work and learn"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -94,7 +109,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "motivation.md",
+                "file": "step 2 - work and learn.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -104,7 +119,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for motivation"
+              "title": "Backlinks for step 2 - work and learn"
             }
           },
           {
@@ -113,12 +128,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "motivation.md",
+                "file": "step 2 - work and learn.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from motivation"
+              "title": "Outgoing links from step 2 - work and learn"
             }
           },
           {
@@ -142,13 +157,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "step 3  - results.md",
+                "file": "step 2 - work and learn.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of step 3  - results"
+              "title": "Outline of step 2 - work and learn"
             }
           },
           {
@@ -180,9 +195,19 @@
               "icon": "lucide-git-fork",
               "title": "Graph view"
             }
+          },
+          {
+            "id": "c033f260b860b65f",
+            "type": "leaf",
+            "state": {
+              "type": "graph",
+              "state": {},
+              "icon": "lucide-git-fork",
+              "title": "Graph view"
+            }
           }
         ],
-        "currentTab": 3
+        "currentTab": 7
       }
     ],
     "direction": "horizontal",
@@ -199,27 +224,27 @@
       "bases:Create new base": false
     }
   },
-  "active": "88121bf02685f5b2",
+  "active": "6c6356f2f3161337",
   "lastOpenFiles": [
-    "step 2 - work and learn.md",
-    "part 2.md",
-    "lock in.md",
-    "flow.md",
-    "birds Cage.md",
-    "Untitled.base",
-    "step 3  - results.md",
-    "step 2 - work.md",
     "step 1 - trigger.md",
     "framework.md",
-    "hard work.md",
-    "Rat's Cage.md",
+    "birds Cage.md",
     "Isolation.md",
-    "adapt.md",
     "choose you goal.md",
     "Goals.md",
     "delusional optimisim.md",
     "mtv.md",
     "Start.md",
+    "step 3  - results.md",
+    "step 2 - work and learn.md",
+    "part 2.md",
+    "lock in.md",
+    "flow.md",
+    "Untitled.base",
+    "step 2 - work.md",
+    "hard work.md",
+    "Rat's Cage.md",
+    "adapt.md",
     "conflict-files-obsidian-git.md",
     "math functions.md",
     "Functions.md",
