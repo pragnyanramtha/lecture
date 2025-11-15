@@ -1,3 +1,4 @@
+
 Step two, you need to sit down with focus and fight the battle with the world. What do I mean? 
 
 See, every time you try to lock in and learn something , the world doesn't really what you to. So, it will start disturbing you in multiple ways. It'll make sure that you get a call from your friends. the world wants you to go chill, it wants you to scroll reels, it wants you to play games It wants you to feel bored and sleep. It'll throw all these things at you just so that you can't lock in.  It's you versus the entire world. And you have to decide what you have to do.

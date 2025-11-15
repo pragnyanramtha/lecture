@@ -55,16 +55,16 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "flow.md",
+                "file": "step 1 - trigger.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "flow"
+              "title": "step 1 - trigger"
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -137,7 +137,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "step 2 - work and learn.md",
+                "file": "step 1 - trigger.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -147,7 +147,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for step 2 - work and learn"
+              "title": "Backlinks for step 1 - trigger"
             }
           },
           {
@@ -227,16 +227,20 @@
       "bases:Create new base": false
     }
   },
-  "active": "015bacf083808459",
+  "active": "59e0974130cfb2cf",
   "lastOpenFiles": [
-    "step 3  - results.md",
-    "step 2 - work and learn.md",
-    "flow.md",
-    "part 2.md",
-    "lock in.md",
-    "Isolation.md",
-    "step 1 - trigger.md",
     "framework.md",
+    "birds Cage.md",
+    "Isolation.md",
+    "lock in.md",
+    "problems.md",
+    "part 2.md",
+    "flow.md",
+    "Untitled.base",
+    "Untitled.md",
+    "step 2 - work and learn.md",
+    "step 3  - results.md",
+    "step 1 - trigger.md",
     "choose you goal.md",
     "Goals.md",
     "delusional optimisim.md",
@@ -244,8 +248,6 @@
     "Start.md",
     "hard work.md",
     "story.md",
-    "birds Cage.md",
-    "Untitled.base",
     "adapt.md"
   ]
 }
