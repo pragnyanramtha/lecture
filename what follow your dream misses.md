@@ -1,9 +1,6 @@
-programming is a weird job, but i do love it though, and its no exaggeration say that its my dream job and a common cliche.
+Programming is a weird job, but I do love it though, and it's no exaggeration to say that it's my dream job and a common cliché.
 
-And a common cliché is for someone who is lucky enough to land in a dream job,
-to stand confidently in front of a group of students,
-
-and to compel them to follow their dreams.
+And a common cliché is for someone who is lucky enough to land in a dream job to stand confidently in front of a group of students and to compel them to follow their dreams.
 
 Frankly, on its own, I don't think this is very good advice.
 
@@ -17,89 +14,53 @@ And it's also true that you shouldn't feel shackled by societal constraints. But
 
 That's completely okay.
 
-And even if you are one of the lucky ones who has a passion that you want to roll
-
-into a career, I think there are a few pragmatic concerns that don't always fit
-
-very neatly into an inspirational speech that are required to make this actually work.
+And even if you are one of the lucky ones who has a passion that you want to roll into a career, I think there are a few pragmatic concerns that don't always fit very neatly into an inspirational speech that are required to make this actually work.
 
 ## The shifting goal
 
 Before I entered college, I was one of those who knew what I wanted to major in.
 
-There's no surprises here, it was math.
+There are no surprises here; it was math.
 
 This was a topic that I had loved for a long time, as long as I can remember.
 
-When I was in college, I was plenty seduced by the adjacent field of computer
+When I was in college, I was plenty seduced by the adjacent field of computer science and programming, and I would spend my summers interning at software startups.
 
-science and programming, and I would spend my summers interning at software startups.
-
-But I distinctly remember coming back at the end of each of those summers and thinking,
-
-man, you know what I really want to do with my life, is spend more time doing math.
+But I distinctly remember coming back at the end of each of those summers and thinking, "Man, you know what I really want to do with my life is spend more time doing math."
 
 So I had a passion, I had something I would want to follow.
 
-But in hindsight, that passion was a lot more arbitrary and maybe a
-
-little more self-centered than I would have liked to admit at the time.
+But in hindsight, that passion was a lot more arbitrary and maybe a little more self-centered than I would have liked to admit at the time.
 
 Why did I love math?
 
-You know, if I'm honest, I think it had its roots in the fact that when I was young,
-
-the adults emphasized this is an important topic to learn,
-
-and they told me I was good at it.
+You know, if I'm honest, I think it had its roots in the fact that when I was young, the adults emphasized this is an important topic to learn, and they told me I was good at it.
 
 This makes me spend more time with it.
 
-Spending time with something is how you get better at something,
-
-and that kicks off a positive feedback loop, in both senses of the word positive
-
-feedback.
+Spending time with something is how you get better at something, and that kicks off a positive feedback loop, in both senses of the word "positive feedback."
 
 Now, as time went on, I do believe it became less about perceptions when I was in college.
 
-I remember genuinely enjoying the aesthetic delights
+I remember genuinely enjoying the aesthetic delights that beautiful math problem-solving has to have.
 
-that beautiful math problem solving has to have.
+But thinking of it as a career ambition, not just a hobby, this had the fatal flaw that I was viewing the world through a lens of what I personally enjoyed, not giving enough weight to a plan for how exactly it would add value to others.
 
-But thinking of it as a career ambition, not just a hobby,
-
-this had the fatal flaw that I was viewing the world through a lens of what I
-
-personally enjoyed, not giving enough weight to a plan for how exactly it would
-
-add value to others.
-
-I don't know if you felt it yet, but today marks a
-
-day in your life when a fundamental goal changes.
+I don't know if you've felt it yet, but today marks a day in your life when a fundamental goal changes.
 
 When you're a student, the fundamental goal is to grow, to learn, to become better.
 
-So many institutions and structures around you are there to support you in
+So many institutions and structures around you are there to support you in growing and learning and getting better and to reward you for doing so.
 
-growing and learning and getting better and to reward you for doing so.
-
-In life after college, the goal changes a little,
-
-and success hinges on how effectively you're able to add value to others.
+In life after college, the goal changes a little, and success hinges on how effectively you're able to add value to others.
 
 Now, these aren't at odds with each other.
 
 In fact, they go hand in hand.
 
-You're much better positioned to make a difference if you're armed
+You're much better positioned to make a difference if you're armed with an expertise and if you spend your life honing that expertise.
 
-with an expertise and if you spend your life honing that expertise.
-
-But there is a big difference between personal growth being
-
-the end in and of itself versus being a means to an end.
+But there is a big difference between personal growth being the end in and of itself versus being a means to an end.
 
 By way of comparison, I also loved the violin when I was growing up.
 
@@ -119,55 +80,31 @@ He's always going to get the better position.
 
 But pursuing music careers, Taylor is at the clear advantage.
 
-My first piece of advice, something I would have told myself I could go back in time
+My first piece of advice, something I would have told myself if I could go back in time and be in the seat where you are now, is that if you have a passion that you want to incorporate into a career, take a step back and recognize the fact that this is a passion that grew in a time of your life when the goal was to learn and to grow.
 
-and be in the seat where you are now, is that if you have a passion that you want
+But you're transitioning to a period when the primary aim shifts to adding value to others.
 
-to incorporate into a career, take a step back and recognize the fact that this is
+The cliché "to follow your dreams" overlooks how critical it is that the dreams you have are about something more than just yourself.
 
-a passion that grew in a time of your life when the goal was to learn and to grow.
+Those who excel in their first jobs are the ones who make life easier for everyone around them, even when it involves doing things they don't love.
 
-But you're transitioning to a period when the
+Those who excel in PhD programs are the ones who recognize how their work fits into a broader research community, not just the ones who view it as the next chapter in school.
 
-primary aim shifts to adding value to others.
-
-The cliché to follow your dreams overlooks how critical it is that
-
-the dreams you have are about something more than just yourself.
-
-Those who excel in their first jobs are the ones who make life easier for
-
-everyone around them, even when it involves doing things they don't love.
-
-Those who excel in PhD programs are the ones who recognize how their work fits into a
-
-broader research community, not just the ones who view it as the next chapter in school.
-
-The successful entrepreneurs are the ones who have a relentless focus
-
-on making sure that what they have to sell is what people want to buy,
-
-not just those who are looking to make something impressive.
+The successful entrepreneurs are the ones who have a relentless focus on making sure that what they have to sell is what people want to buy, not just those who are looking to make something impressive.
 
 ## Action precedes motivation
 
-Now, for some people when you hear the words follow your dreams,
-
-it falls flat because you don't have a defining passion.
+Now, for some people, when you hear the words "follow your dreams," it falls flat because you don't have a defining passion.
 
 Like I said earlier, that's completely okay.
 
 If anything, it might put you at an advantage.
 
-I think you'll do just as well if you start by seeking out opportunities where
-
-the skills that you've developed here intersect with adding values to others.
+I think you'll do just as well if you start by seeking out opportunities where the skills that you've developed here intersect with adding values to others.
 
 And from there, I promise the passion will follow.
 
-One of the best pieces of advice I remember receiving from
-
-a friend many years ago is that action precedes motivation.
+One of the best pieces of advice I remember receiving from a friend many years ago is that action precedes motivation.
 
 This is often useful on a much smaller scale.
 
@@ -177,312 +114,150 @@ A drive to exercise comes from the habit of exercising.
 
 It doesn't go the other way around.
 
-But I think the idea that action precedes motivation applies to
-
-this bigger question of finding a career doing what you love.
+But I think the idea that action precedes motivation applies to this bigger question of finding a career doing what you love.
 
 These days, I do love making videos, and I really do love teaching.
 
 But when I was finishing college, I had no penchant or experience with videos at all.
 
-And my interest in teaching was honestly only
+And my interest in teaching was honestly only insofar as it scratched this itch to do more math.
 
-insofar as it scratched this itch to do more math.
-
-It was only by stumbling into a wacky career where
-
-I was doing both of them that I came to love them.
+It was only by stumbling into a wacky career where I was doing both of them that I came to love them.
 
 ## Timing
 
-Now, in my own story, what happened after college involves a fair bit of luck,
+Now, in my own story, what happened after college involves a fair bit of luck, but luck can come in a lot of different forms.
 
-but luck can come in a lot of different forms.
+And I think with a little bit of foresight, you can actually avoid having to rely on chance in quite the same way.
 
-And I think with a little bit of foresight, you can actually
+There's a post I like on the webcomic XKCD that shows a man standing on a stage, and he has bags of cash surrounding him.
 
-avoid having to rely on chance in quite the same way.
+"Never stop buying lottery tickets," he says.
 
-There's a post I like on the webcomic XKCD that shows a man standing on a stage,
+"No matter what people tell you, I failed again and again, but I never gave up, and here I am as proof that if you put in the time, it pays off."
 
-and he has bags of cash surrounding him.
+The caption notes that every inspirational speech should come with a disclaimer about survivorship bias.
 
-Never stop buying lottery tickets, he says.
-
-No matter what people tell you, I failed again and again, but I never gave up,
-
-and here I am as proof that if you put in the time, it pays off.
-
-The caption notes that every inspirational speech
-
-should come with a disclaimer about survivorship bias.
-
-The obvious way that Follow Your Dreams is susceptible to survivorship bias is
-
-that for all of the high-risk, high-reward paths, things like professional athletics,
-
-starting a social media company, making a career in the arts,
-
-it's only the few who rise to the top who are in a position to give advice at all.
+The obvious way that "Follow Your Dreams" is susceptible to survivorship bias is that for all of the high-risk, high-reward paths—things like professional athletics, starting a social media company, making a career in the arts—it's only the few who rise to the top who are in a position to give advice at all.
 
 But there's also a more subtle way that survivorship bias applies here.
 
 It's not just about the odds of winning a particular game.
 
-It has to do with whether the game you choose to play
+It has to do with whether the game you choose to play meshes well with the way that the future unfolds.
 
-meshes well with the way that the future unfolds.
+If you were a software enthusiast in the late 1980s, you would be well poised to ride the dot-com boom in the decade that followed.
 
-If you were a software enthusiast in the late 1980s,
+If you were someone with a niche interest and an act for film production, you would find yourself with an unexpected opportunity when YouTube and other film-sharing platforms started to rise in prominence.
 
-you would be well poised to ride the dot-com boom in the decade that followed.
-
-If you were someone with a niche interest and an act for film production,
-
-you would find yourself with an unexpected opportunity when YouTube
-
-and other film-sharing platforms started to rise in prominence.
-
-When I was finishing my undergrad, one of these ways that I scratched that
-
-itch to do more math was to hack together a very rudimentary Python
-
-library for making math visualizations, and I used it to make a couple
-
-videos about neat proofs and problems that I enjoyed and posting them online.
+When I was finishing my undergrad, one of these ways that I scratched that itch to do more math was to hack together a very rudimentary Python library for making math visualizations, and I used it to make a couple of videos about neat proofs and problems that I enjoyed and posting them online.
 
 I was not planning for this to be a career.
 
-I had an appreciation for how valuable personal projects are,
+I had an appreciation for how valuable personal projects are, but it didn't go much beyond that.
 
-but it didn't go much beyond that.
+This led to conversations with Khan Academy, a group I had great respect for, and it turned into a job there, making more lessons online.
 
-This led to conversations with Khan Academy, a group I had great respect for,
+In the meantime, I continued my own channel as a side hobby, and it didn't blow up, but there was a very modest growth of others who enjoyed the same kind of visualizations that I did, and I saw it in just a steady take-up in the audience size.
 
-and it turned into a job there, making more lessons online.
+Now, my original plan, I think, was to spend a year or two doing this online education stuff, working at Khan Academy, and maybe returning to do a PhD.
 
-In the meantime, I continued my own channel as a side hobby, and it didn't blow up,
+But as time went on, something between the gratitude that I saw from many students around the planet for the lessons I put out and the slow and steady growth on my own channel led me to doubling down and forming a somewhat unorthodox career in online lessons and math visualization.
 
-but there was a very modest growth of others who enjoyed the same kind of
-
-visualizations that I did, and I saw it in just a steady take-up in the audience size.
-
-Now, my original plan, I think, was to spend a year or two doing this online
-
-education stuff, working at Khan Academy, and maybe returning to do a PhD.
-
-But as time went on, something between the gratitude that I saw from
-
-many students around the planet for the lessons I put out and the slow
-
-and steady growth on my own channel led me to doubling down and forming
-
-a somewhat unorthodox career in online lessons and math visualization.
-
-Now, looking back, it would feel very incomplete if I were to
-
-somehow ascribe the success that I found to the extent there was
-
-any to the fact that I was following a dream, pursuing a passion.
+Now, looking back, it would feel very incomplete if I were to somehow ascribe the success that I found, to the extent there was any, to the fact that I was following a dream, pursuing a passion.
 
 Passion plays into it.
 
-You can't have good lessons without a teacher who cares,
+You can't have good lessons without a teacher who cares, but we can't ignore the other factors at play.
 
-but we can't ignore the other factors at play.
-
-I already brought up the biggest one, success is a function of the value
-
-you bring to others, so a pursuit equally fueled by love,
-
-but which did nothing to help or to entertain people just wouldn't have
-
-had a chance to work.
+I already brought up the biggest one: success is a function of the value you bring to others, so a pursuit equally fueled by love but which did nothing to help or to entertain people just wouldn't have had a chance to work.
 
 But another factor I want to focus on is how I was very lucky with the timing.
 
-If I had been born 10 years earlier, I don't think I could have reached the same number
-
-of people posting lessons on a much more infant version of the internet,
-
-where there was less infrastructure that could have existed to help form a career
-
-doing so.
+If I had been born 10 years earlier, I don't think I could have reached the same number of people posting lessons on a much more infant version of the internet, where there was less infrastructure that could have existed to help form a career doing so.
 
 If I had started 10 years later, the space would have been a lot more saturated.
 
-So another piece of advice that I'd like to offer,
-
-another little ingredient that makes following your dreams a little more likely to work
-
-out is to ask yourself what's possible now that wasn't possible 10 years ago and which
-
-might get harder 10 years from now.
+So another piece of advice that I'd like to offer, another little ingredient that makes "following your dreams" a little more likely to work out, is to ask yourself, "What's possible now that wasn't possible 10 years ago, and which might get harder 10 years from now?"
 
 There are more opportunities in a less crowded landscape.
 
-There are more chances to grow if you're part of a rising tide,
-
-but this requires pushing past the inevitable discomfort that
-
-comes from following a path that has little to no precedent.
+There are more chances to grow if you're part of a rising tide, but this requires pushing past the inevitable discomfort that comes from following a path that has little to no precedent.
 
 ## Know your influence
 
-Now next, I want to take a moment to talk about whose dreams
+Now, next, I want to take a moment to talk about whose dreams you should be thinking about, because it's not just your own.
 
-you should be thinking about, because it's not just your own.
-
-When I was visiting Harvey Mudd last year, I had the pleasure of
-
-talking to one of the gems in your math department, Talithia Williams,
-
-and I asked her, hey, what made you pursue math in the first place?
+When I was visiting Harvey Mudd last year, I had the pleasure of talking to one of the gems in your math department, Talithia Williams, and I asked her, "Hey, what made you pursue math in the first place?"
 
 She had a very clear story.
 
-She told me she hadn't thought about it very much until one
+She told me she hadn't thought about it very much until one distinct day in her high school calculus class, her teacher, Mr. Dorman, pulled her aside and said, "Talithia, you're really good at this. You should consider majoring in math."
 
-distinct day in her high school calculus class, her teacher, Mr.
+Evidently, she had never thought about it before, but that one comment was enough to knock over the first in a series of dominoes that led to a very flourishing career in the topic.
 
-Dorman, pulled her aside and said, Talithia, you're really good at this.
+Over the years, I've asked a lot of mathematicians the same question, and you would be shocked how often I hear a very similar answer.
 
-You should consider majoring in math.
+There was this one particular teacher, and one seemingly simple thing that they did, that was the beginning in a long series of encouragements.
 
-Evidently, she had never thought about it before,
+Never underestimate just how much influence you can have on others, especially the ones who are younger than you are.
 
-but that one comment was enough to knock over the first in
+Growing older is a process of slowly seeing the proportion of people around you who are younger than you are rise inexorably closer to 100%.
 
-a series of dominoes that led to a very flourishing career in the topic.
-
-Over the years, I've asked a lot of mathematicians the same question,
-
-and you would be shocked how often I hear a very similar answer.
-
-There was this one particular teacher, and one seemingly simple thing that they did,
-
-that was the beginning in a long series of encouragements.
-
-Never underestimate just how much influence you can have on others,
-
-especially the ones who are younger than you are.
-
-Growing older is a process of slowly seeing the proportion of people
-
-around you who are younger than you are rise inexorably closer to 100%.
-
-As this happens, you stand to have as much influence by shaping the
-
-dreams of those behind you as you do by following those of your own.
+As this happens, you stand to have as much influence by shaping the dreams of those behind you as you do by following those of your own.
 
 ## Anticipate change
 
-And as a very last point, the biggest risk in the follow your dreams
+And as a very last point, the biggest risk in the "follow your dreams" cliché is the implication that there's one static target point at all.
 
-cliché is the implication that there's one static target point at all.
-
-In the next 10, 20, 30 years, the world around you is going to change a lot,
-
-and those changes are going to be unpredictable.
+In the next 10, 20, 30 years, the world around you is going to change a lot, and those changes are going to be unpredictable.
 
 I hardly need to emphasize this point.
 
-You are the class who spent your formative transition
-
-from high school to college under a pandemic.
+You are the class who spent your formative transition from high school to college under a pandemic.
 
 But it's not just the world around you.
 
-Tonight, when you're celebrating your graduation and hopefully remembering
+Tonight, when you're celebrating your graduation and hopefully remembering to celebrate Mother's Day as well, take a few moments to ask the people who are older than you how they've changed, how their personalities, how their value systems have changed since they were a student.
 
-to celebrate Mother's Day as well, take a few moments to ask the people
-
-who are older than you how they've changed, how their personalities,
-
-how their value systems have changed since they were a student.
-
-You'll notice that essentially all of them has an answer,
-
-which suggests you have every reason to expect that there's going to be
-
-something fundamental about you that changes as well in the coming decades,
-
-probably unpredictably.
+You'll notice that essentially all of them have an answer, which suggests you have every reason to expect that there's going to be something fundamental about you that changes as well in the coming decades, probably unpredictably.
 
 Almost everyone I know has undergone some kind of shift since college.
 
 Some came to place more value on having a family than they used to.
 
-Some shifted from a trajectory that was oriented
+Some shifted from a trajectory that was oriented towards an academic career to going into industry.
 
-towards an academic career to going into industry.
+Some went the other way around and, after spending some time in industry, returned to grad school.
 
-Some went the other way around and after spending
+And so, so many of them have jobs that simply didn't exist at the time of their graduation.
 
-some time in industry returned to grad school.
-
-And so, so many of them have jobs that simply
-
-didn't exist at the time of their graduation.
-
-So rather than having any one particular goal that defines who you are,
-
-you'll take better advantage of whatever the future has to offer you if you remain
-
-nimble and if you're responsive to the changes in the world and if you anticipate change
-
-within yourself.
+So rather than having any one particular goal that defines who you are, you'll take better advantage of whatever the future has to offer you if you remain nimble and if you're responsive to the changes in the world and if you anticipate change within yourself.
 
 My final piece of advice is to not treat passion as something to follow.
 
 Think of it as an initial velocity vector.
 
-It gives a clear direction to point yourself and
+It gives a clear direction to point yourself, and loving what you do can have you move quickly.
 
-loving what you do can have you move quickly.
+But you should expect, and you should even hope, that the specific direction that you're moving changes based on the force vectors around you.
 
-But you should expect and you should even hope that the specific direction
+Now, in these unpredictable decades that come, your generation is the one that holds more sway than any other over how it unfolds.
 
-that you're moving changes based on the force vectors around you.
+And you, the graduating class of Harvey Mudd, represent some of the most talented and thoughtful minds in that generation.
 
-Now in these unpredictable decades that come, your generation is
+Influence is not distributed uniformly in the population, and I, for one, would feel a lot more comfortable if it was you who were at the helm, guiding this crazy ship that we're all riding.
 
-the one that holds more sway than any other over how it unfolds.
-
-And you, the graduating class of Harvey Mudd, represent some
-
-of the most talented and thoughtful minds in that generation.
-
-Influence is not distributed uniformly in the population and I
-
-for one would feel a lot more comfortable if it was you who
-
-were at the helm guiding this crazy ship that we're all riding.
-
-If you step into the next chapter of life with an implacable focus on
-
-adding values to others, you're more likely to be the ones at the helm.
+If you step into the next chapter of life with an implacable focus on adding values to others, you're more likely to be the ones at the helm.
 
 If you recognize that action precedes motivation, you're more likely to be at the helm.
 
-And if you ask what's possible now that wasn't 10 years ago,
+And if you ask, "What's possible now that wasn't 10 years ago?" you're more likely to be at the helm.
 
-you're more likely to be at the helm.
+If you appreciate just how much power you have to shape the lives of the generation that follows you, you're more likely to be at the helm.
 
-If you appreciate just how much power you have to shape the lives of
+And if you remain adaptable to a changing world, treating passion not as a destination but as a fuel, following not dreams but opportunities, you're more likely to be at the helm.
 
-the generation that follows you, you're more likely to be at the helm.
-
-And if you remain adaptable to a changing world,
-
-treating passion not as a destination but as a fuel,
-
-following not dreams but opportunities, you're more likely to be at the helm.
-
-One final time, would everyone please join me in congratulating the
-
-class of 2024 on what they've done to get here and make some noise
-
-to let them know how excited we are to see where they go from here.
+One final time, would everyone please join me in congratulating the class of 2024 on what they've done to get here and make some noise to let them know how excited we are to see where they go from here.
 
 [[problem solving]]

@@ -16,9 +16,12 @@ only do what you need to, focus on what's important not what's required.
 understand what you have done, seek out what you have achieved. 
 
 and then you will truly understand how you have grown.
-every time you face a problem you are struggling against , you don't need to start from the bottom, use what you have learnt in your life , and solve the problems 
+every time you face a problem you are struggling against , you don't need to start from the bottom, use what you have learnt in your life , and solve the problems.
 
-get absorbed in the problem,
+for this to be possible, you need to know who exactly you are, who are you ?
+what are your abilities, what are your skills, how can you use them to your advantage, what is your limits, how do you break them? 
+
+get absorbed in the moment,
 know your abilities precisely,
 control your abilities to their at most potential,
 then challenge yourself to the toughest and hardest thing you can do.
@@ -29,7 +32,8 @@ to the outsiders , it will look like a miracle, but there is a formula to it.
 
 you see there is a time in your life when you know a skill , a concept and there is a time in your life where you don't that.
 
-and there is no clear path between these two states of being , all it takes is a leap of faith.  
+and there is no clear path between these two states, all it takes is a leap of faith.
+
 
 
 [[story]]

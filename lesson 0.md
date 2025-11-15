@@ -1,58 +1,12 @@
-purple tunnel
-macular degeneration
-social isolation 
-and excellent salary
+Purple tunnel, macular degeneration, social isolation, and an excellent salary.
 
-and back problems if that sounds good to
+And back problems. If that sounds good to you, might I recommend a career in programming? But how does one actually learn to code as a complete beginner?
 
-you might I recommend a career in
+Well, the answer is actually very simple. You need to spend countless hours staring at the blue light of a computer screen, hitting the keys until something cool comes out the other side. Learning to code was by far the best investment I ever made in my career, and it cost approximately zero dollars, thanks to all the free stuff on the internet. Luckily, you don't need to be very smart, but you do need to work hard and put in the hours required to learn the actual skill.
 
-programming but how does one actually
+But hours doing what, exactly? Where do I even start? Sadly, there is no guaranteed step-by-step program. Every true coder will need to go on their own quest and slay their own dragons.
 
-learn to code as a complete beginner
+Many, many moons ago, I wanted to learn to code but didn't know how to start. So, like everyone, I opened up YouTube and looked up programming tutorials, watched them, thinking I would become a programming genius overnight. But no, that actually did not happen. Turns out, I failed miserably and left programming for 3 months, thinking not to touch it again.
 
-well the answer is actually very simple
-
-you need to spend countless hours
-
-staring at the blue light of a computer
-
-screen hitting the keys until something
-
-cool comes out the other side learning
-
-to code was by far the best investment I
-
-ever made in my career and it cost
-
-approximately zero dollars thanks to all
-
-the free stuff on the internet luckily
-
-you don't need to be very smart but you
-
-do need to work hard and put in the
-
-hours required to learn the actual skill
-
-but hours doing what exactly where do I
-
-even start sadly there is no guaranteed
-
-step-by-step program every true coder
-
-will need to go on their own Quest and
-
-slay their own dragons in this video
-
-
-
-many many moons ago i wanted to learn to code but didn't know how to start , so like everyone ,i opened up youtube and looked up programming tutorials watched them thinking i would become a programming genius overnight , but no that actually did not happen , turns out i failed miserably and left programming for 3 months thinking not to touch it again.
-
-while later my dad needed a website
-so i figured i was at least smart enough
-to learn html and somehow a few months
-later i figured out how to ship my first
-website the important thing to recognize 
-when learning to code is that
+A while later, my dad needed a website, so I figured I was at least smart enough to learn HTML. And somehow, a few months later, I figured out how to ship my first website. The important thing to recognize when learning to code is that...
 [[lesson 1]]

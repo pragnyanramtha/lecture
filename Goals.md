@@ -1,22 +1,22 @@
-okay, imagine this 
+Okay, imagine this:
 
-if you have a goal right now, i want you to only think about that goal, that end result , don't focus on the road you have to walk , focus on the destination you have to reach. 
+If you have a goal right now, I want you to only think about that goal, that end result. Don't focus on the road you have to walk; focus on the destination you have to reach.
 
-don't think about how frustrating building a website is , think about the revenue you will be making from it.
+Don't think about how frustrating building a website is; think about the revenue you will be making from it.
 
-don't think about how hard the coding problems are , think about you solving them in a technical interview at google.
+Don't think about how hard the coding problems are; think about you solving them in a technical interview at Google.
 
-once you do this enough , you start to love the process , you don't need motivation , you don't feel like giving up, you actually want it. 
+Once you do this enough, you start to love the process. You don't need motivation, you don't feel like giving up, you actually want it.
 This goal will make you obsessed.
 
-But obviously , this mindset won't work unless you have a goal.
+But obviously, this mindset won't work unless you have a goal.
 
-so let me ask you ? what is your goal , what do you want ? what do you want to achieve. 
+So let me ask you: what is your goal? What do you want? What do you want to achieve?
 
-Now it doesn't matter if your goal in related of computer science, because if your goal is not in computer science, just let me ask you what have you done in the past month to get closer to it ?
+Now, it doesn't matter if your goal is related to computer science, because if your goal is not in computer science, just let me ask you, what have you done in the past month to get closer to it?
 
-And If you don't have a goal at all ? well, i would recommend you find one, doesn't matter if your goal is in Computer science or entrepreneurship or literally to earn lots money.  
+And if you don't have a goal at all? Well, I would recommend you find one. It doesn't matter if your goal is in computer science or entrepreneurship or literally to earn a lot of money.
 
-all you need is to find that goal and be heads down chasing it.
+All you need is to find that goal and be heads-down chasing it.
 
 [[choose you goal]]

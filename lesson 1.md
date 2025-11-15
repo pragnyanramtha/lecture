@@ -1,25 +1,17 @@
 
-hard work is more valuable than talent 
+Hard work is more valuable than talent.
 
-talent is great if you have it and 
-there are 10x developers out there where things just click on a much higher level 
+Talent is great if you have it, and there are 10x developers out there for whom things just click on a much higher level.
 
-but programming is a skill very similar to playing a musical instrument or juggling
+But programming is a skill very similar to playing a musical instrument or juggling.
 
-for most people you totally suck at first then you feel like a genius when
+For most people, you totally suck at first. Then you feel like a genius when you code your first program. Then you realize you totally suck again, and this pattern goes on and on forever in an infinite loop.
 
-you code your first program then you realize you totally suck again and this pattern goes on and on forever in an infinite loop 
+Learning is supposed to be painful. In fact, I believe that you need pain to grow. When learning a guitar, you need to put your fingertips through a lot of pain before you build calluses.
 
-learning is supposed to be painful in fact
-i believe that you need pain to grow
-when learning a guitar you need to put your fingertips through a
-lot of pain before you build calluses 
+In programming, you'll have to bang your head against the keyboard a bunch of times until you figure out how to make these error messages go away.
 
-in programming you'll have to bang your head against the keyboard a bunch of times until you figure out how to make these error messages go away 
+So if you don't have talent, be prepared to embrace the hard work.
 
-so if you don't have talent 
-
-be prepared to embrace the hard work now 
-
-since we have recently completed your mid exams , i appreciate the hard work all of you have put in, though i also think that this might be a good time to take a step back and realize where we are right now. and see what we have learnt as a whole
+Now, since we have recently completed your mid-exams, I appreciate the hard work all of you have put in, though I also think that this might be a good time to take a step back and realize where we are right now and see what we have learned as a whole.
  [[how to actually learn to code]]

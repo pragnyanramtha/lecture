@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "step 3  - Reward.md",
+                "file": "step 1 - Resolve.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "step 3  - Reward"
+              "title": "step 1 - Resolve"
             }
           },
           {
@@ -41,12 +41,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "step 2 - Adapt.md",
+                "file": "Start.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "step 2 - Adapt"
+              "title": "Start"
             }
           },
           {
@@ -55,16 +55,16 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "step 1 - Resolve.md",
+                "file": "step 3  - Reward.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "step 1 - Resolve"
+              "title": "step 3  - Reward"
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -137,7 +137,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "step 1 - Resolve.md",
+                "file": "Start.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -147,7 +147,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for step 1 - Resolve"
+              "title": "Backlinks for Start"
             }
           },
           {
@@ -227,11 +227,13 @@
       "bases:Create new base": false
     }
   },
-  "active": "59e0974130cfb2cf",
+  "active": "015bacf083808459",
   "lastOpenFiles": [
-    "step 2 - Adapt.md",
     "step 1 - Resolve.md",
+    "step 2 - Adapt.md",
     "step 3  - Reward.md",
+    "Start.md",
+    "mtv.md",
     "framework.md",
     "birds Cage.md",
     "Isolation.md",
@@ -244,8 +246,6 @@
     "choose you goal.md",
     "Goals.md",
     "delusional optimisim.md",
-    "mtv.md",
-    "Start.md",
     "hard work.md",
     "story.md",
     "adapt.md"

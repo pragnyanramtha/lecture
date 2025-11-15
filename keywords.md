@@ -1,9 +1,9 @@
-today, i want to dive deeper into happens inside when you click the run button 
+Today, I want to dive deeper into what happens inside when you click the run button.
 
-*image of going to hell from fireships iceberg video between 2 doors*
+*Image of going to hell from Fireship's iceberg video between 2 doors*
 
-but now , this is not where i wanna stop , i wanna show you the true depth of programming 
+But now, this is not where I want to stop. I want to show you the true depth of programming.
 
-And what really happens inside a computer !!! 
+And what really happens inside a computer!!!
 
 [[cpu and memory]]
