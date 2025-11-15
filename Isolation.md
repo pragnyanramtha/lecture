@@ -21,8 +21,8 @@ But Ramtha ? how do you LOCK IN ?
 I have never done it before ?
 NO, YOU have done it, indeed you do it everyday.
 When you play your favorite game , you lock in.
-when you watch reels you lock in.
-and when you have a goal you need to achieve you lock in.
+when you watch your favorite show you lock in.
+and when you have a goal you need to achieve you will lock in.
 
 
 

@@ -1,4 +1,3 @@
-
 Now suppose you do lock in everyday for 2 hours and sit down ? what do you learn ?
 what are you supposed in that two hours ?
 
@@ -17,7 +16,7 @@ only do what you need to, focus on what's important not what's required.
 understand what you have done, seek out what you have achieved. 
 
 and then you will truly understand how you have grown.
-everytime you face a problem you are stuggling againist , you dont need to start from the bottem, use what you have learnt in your life , and solve the problems 
+every time you face a problem you are struggling against , you don't need to start from the bottom, use what you have learnt in your life , and solve the problems 
 
 get absorbed in the problem,
 know your abilities precisely,
