@@ -17,7 +17,7 @@ So sometimes feel free to break the image that people have about you just becaus
 
 if you can't be happy with yourself, you can never be happy with anyone else. 
 
-Now the next one is the secret to reach your goals faster and it is the exact path i use to achieve goals faster in my life. 
+Now the next one is the secret to reach your goals faster, so fast that the people surrounding you will think it's a miracle.
 
 See, as a disclaimer, i  don't consider myself to be successful yet because I'm fighting my own battles every day. I'm just like you, maybe a few steps ahead, but still have a lot to do in my own life.
 

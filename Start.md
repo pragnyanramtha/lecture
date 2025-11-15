@@ -8,6 +8,8 @@ because from that day i have been learning things faster than ever.
 
 after that day, i didn't need anyone to teach me, i was capable of adapting.
 
+also for purposes, you will later learn there be a tune playing in the background , so i hope you don't mind.
+
 Btw, if you are wondering who is this guy talking shit on the stage is, well it's about time you know.
 
 [[mtv]]
