@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "lock in.md",
+                "file": "Goals.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "lock in"
+              "title": "Goals"
             }
           },
           {
@@ -41,12 +41,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Start.md",
+                "file": "step 2 - Adapt.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Start"
+              "title": "step 2 - Adapt"
             }
           },
           {
@@ -63,8 +63,7 @@
               "title": "step 3  - Reward"
             }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "vertical"
@@ -137,7 +136,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Start.md",
+                "file": "Goals.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -147,7 +146,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for Start"
+              "title": "Backlinks for Goals"
             }
           },
           {
@@ -227,25 +226,26 @@
       "bases:Create new base": false
     }
   },
-  "active": "015bacf083808459",
+  "active": "d3427d8b6b8c7377",
   "lastOpenFiles": [
-    "step 1 - Resolve.md",
-    "step 2 - Adapt.md",
-    "step 3  - Reward.md",
-    "Start.md",
+    "delusional optimisim.md",
     "mtv.md",
+    "Start.md",
+    "step 1 - Resolve.md",
+    "lock in.md",
+    "step 3  - Reward.md",
+    "step 2 - Adapt.md",
     "framework.md",
     "birds Cage.md",
     "Isolation.md",
-    "lock in.md",
+    "choose you goal.md",
+    "Goals.md",
+    "AnimationScene.mp4",
     "problems.md",
     "part 2.md",
     "flow.md",
     "Untitled.base",
     "Untitled.md",
-    "choose you goal.md",
-    "Goals.md",
-    "delusional optimisim.md",
     "hard work.md",
     "story.md",
     "adapt.md"

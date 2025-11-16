@@ -18,6 +18,4 @@ When you play your favorite game, you lock in.
 When you watch your favorite show, you lock in.
 And when you have a goal you need to achieve, you will lock in.
 
-
-
 [[birds Cage]]

@@ -1,4 +1,4 @@
-To start doing anything in life, you need to have resolve—your internal reasoning for why you are doing it.
+To start doing anything in life, you need to have resolve, your internal reasoning for why you are doing it.
 
 Your long-term goal is what gives rise to your short-term resolve.
 
@@ -8,6 +8,14 @@ I get it, alright? Programming feels boring. It's such a pain in the ass. It's n
 
 Computer science is a field where it takes the longest time to get the fruits of your labor (and so are all other fields), so the least thing you can do is make it cooler, more challenging, more dramatic than it actually is.
 
+imagine someone made a web series of your life ? and you are the main character , seven episodes , each one showing how your day looks for an entire week ? but here is what your day looks like.
+
+you spend most of your time sleeping , scrolling , playing games.
+
+no dreams , no hobbies , no growth. 
+
+cuz even in a story , you want the main character to do something, to adapt, to grow, to win. 
+
 Every person has their own way of perceiving things. Everyone has their own likes and their own views of what they think are cool.
 
 All you have to do is imagine a little bit, see things a bit differently, and this will make all the difference in the world.
@@ -15,7 +23,6 @@ All you have to do is imagine a little bit, see things a bit differently, and th
 Once you do this enough, I assure you, computer science will be the coolest thing that you ever do.
 
 but how do you beat procrastination ? well you need to understand , that procrastinations is a habit, and to stop wasting time, you simply switch one habit with another.
-
 
 For example, when I first started learning this programming, I had to make sure that I did it well and didn't give up in between. So, I set a specific time on my phone during which a specific music would play.
 

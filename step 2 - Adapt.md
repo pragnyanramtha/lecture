@@ -8,7 +8,7 @@ See, every time you try to lock in and learn something, the world doesn't really
 
 People can't get absorbed into something so easily. For example, you might passively get into a trance-like state on your phone, but that's not the adaptation state available exclusively for you. Hence, I wouldn't call it evolution in my book.
 
-The excitement you gain when you find a new weapon, the thrill you feel when you have reached a goal—this joy is something that only belongs to you.
+The excitement you gain when you find a new weapon, the thrill you feel when you have reached a goal, this joy is something that only belongs to you.
 
 That's what I call true evolution.
 
