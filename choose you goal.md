@@ -8,11 +8,10 @@ You see, happiness isn't about circumstance; it's just about your perspective.
 
 You can choose what fulfills you.
 
-If you can't do everything, just choose one thing and hone it to its absolute perfection.
-
 But remember that it's not the achievements that make you happy; it's the growth you make in that process.
 
-So how do you adapt? But how do you grow?
+coming back to the main point
 
+So how do you adapt? But how do you grow?
 [[Isolation]]
 
