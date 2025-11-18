@@ -1,4 +1,6 @@
-I am Pragnyan Ramtha, 17 y/o, and I'm currently working as an open-source contributor.
+Hello, World
+
+I am Pragnyan Ramtha, 17 y/o, and I'm currently interning at reputation dao, a us funded web3 startup.
 
 That's the part some of you know.
 

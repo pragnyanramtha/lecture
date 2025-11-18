@@ -41,12 +41,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "step 3  - Reward.md",
+                "file": "Goals.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "step 3  - Reward"
+              "title": "Goals"
             }
           }
         ],
@@ -123,7 +123,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "step 3  - Reward.md",
+                "file": "Goals.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -133,7 +133,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for step 3  - Reward"
+              "title": "Backlinks for Goals"
             }
           },
           {
@@ -215,17 +215,17 @@
   },
   "active": "59e0974130cfb2cf",
   "lastOpenFiles": [
+    "delusional optimisim.md",
+    "mtv.md",
+    "Start.md",
+    "step 3  - Reward.md",
     "step 2 - Adapt.md",
     "step 1 - Resolve.md",
-    "step 3  - Reward.md",
     "framework.md",
     "birds Cage.md",
     "Isolation.md",
     "choose you goal.md",
     "Goals.md",
-    "delusional optimisim.md",
-    "mtv.md",
-    "Start.md",
     "lock in.md",
     "AnimationScene.mp4",
     "problems.md",
