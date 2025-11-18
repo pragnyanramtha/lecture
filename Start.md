@@ -1,13 +1,13 @@
-In January of 2023, i enrolled into one of hardest introduction to computer science courses available at Harvard known as Cs50, Now 6.5 million people started that course along with me, but less than 1% completed it and that year I got a chance to speak with one of the best professors in computer science.  
- 
-And I learned something.
+Hello, World !
 
-Something clicked inside of me.
+I am Pragnyan Ramtha, 17 y/o, and I'm currently interning at a us funded web3 startup.
 
-Because from that day, I have been learning things faster than ever.
+That's the part some of you know.
 
-After that day, I didn't need anyone to teach me; I was capable of adapting.
+But let me tell you something: I can confidently say that I am way lazier than you, but I am certain that I can achieve things in my life that you can never expect.
 
-By the way, if you are wondering who is this , well it's about time you know.
+Now, if you simply don't care about getting better or if you are a 10/10 on life right now , you can go ahead and relax.
 
-[[mtv]]
+But if you do wanna be in the top 1%, listen very closely, because this mindset will change the way you think and learn forever. 
+
+[[delusional optimisim]]
