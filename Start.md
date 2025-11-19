@@ -1,6 +1,6 @@
 Hello, World !
 
-I am Pragnyan Ramtha, 17 y/o, and I'm currently interning at a us funded web3 startup.
+I am Pragnyan Ramtha, 17 y/o, and I'm currently doing an internship at reputation dao company, a us funded ai research and web3 company.
 
 That's the part some of you know.
 
