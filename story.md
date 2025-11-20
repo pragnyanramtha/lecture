@@ -1,31 +1,33 @@
+The story of two friends, Blue and Red. See, a couple of years ago, both of them wanted to learn programming.
 
-The story of two of my friends, Ramu and Somu. See, a couple of years ago, both of them wanted to learn programming.
+So, they started watching videos and creating a roadmap for their learning.
 
-So they started watching videos about it.
-They started making a road map for it.
+But after just a month, Blue felt that he had learned enough.
 
-But after a month, Ramu felt that he had learned enough.
+He immediately started going to hackathons and applying for internships.
 
-So he directly started to go to hackathons and apply for internships.
+His intention was not to make a lot of money or even win the hackathons, but to connect with experienced programmers. He attended numerous events and applied for 30 to 40 internships until he finally got an offer.
 
-His intention was not to make a lot of money or actually win the hackathons, but to join these hackathons and internships and connect with people who are experienced in programming. So he went to a lot of hackathons and applied for 30 to 40 internships, and he finally got an offer.
+Meanwhile, Red felt that he should learn more before jumping in.
 
-But meanwhile, Somu felt that he should actually learn more.
+He started watching more videos, reading books, and even taking a couple of courses.
 
-So he started watching more videos. He started reading a couple of books. He even started doing a couple of courses.
+He just felt that he wasn't ready for internships. 
 
-He just felt that he wasn't ready to do internships. Now, 3 months passed by. Ramu just finished his internships, and Somu was still learning more about programming.
+Three months passed. Blue had finished his internship, while Red was still learning the basics.
 
-Six months passed by. Ramu did one more internship. But Somu understood that there's AI in marketing now, and he also needs to learn about it first. He just felt that he should not rush because he wasn't ready yet.
+Six months later, Blue completed another internship. But Red, realizing that AI was now impacting marketing, felt he needed to learn about that first. He didn't want to rush; he wanted to be fully ready.
 
-Now, two years passed by. Ramu's manager in the previous internships loved his work and offered him a full-time job. Somu was still learning more about AI and machine learning.
+Two years went by. Blue's manager from a previous internship loved his work and offered him a full-time job. Red was still studying AI and machine learning.
 
-Five years passed by, and guess what?
+Five years passed, and guess what?
 
-Somu is still watching videos and learning more about quantum computing. And Ramu just finished 3 years at his job and finally got promoted as a senior engineer at a company.
+Red is still watching videos, now learning about quantum computing. Blue has just finished three years at his job and was finally promoted to Senior Engineer.
 
-While Ramu felt that he had achieved something in his life, Somu felt like a loser.
+While Blue feels he has achieved something significant, Red feels like he's left behind.
 
-Ramu's parents are proud of him. Somu's parents are worried about him. But what went wrong? Both are equally smart. Both went to the same college. Both are equally hardworking as well, right? So what actually went wrong?
+Blue's parents are proud of him. Red's parents are worried. But what went wrong? Both are equally smart. Both went to the same college. Both are equally hardworking. So, what actually happened?
 
-I think you got the answer. You see, in life, you'll never be ready for most of the things. So stop waiting for the right time to come, because maybe when you feel it's the right time, it might already be too late. Got it? So yeah, that is it. These are a couple of things that I wanted to share with you today.
+I think you know the answer. You see, in life, you'll never be completely ready for most things. So stop waiting for the "right time" to come, because by the time you feel ready, it might already be too late. 
+
+Got it? So yeah, that is it. These are a couple of things that I wanted to share with you today.
