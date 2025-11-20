@@ -13,10 +13,11 @@ But obviously, this mindset won't work unless you have a goal.
 
 So let me ask you: what is your goal? What do you want? What do you want to achieve?
 
-Now, it doesn't matter if your goal is related to computer science, because if your goal is not in computer science, just let me ask you, what have you done in the past month to get closer to it?
+Now, it doesn't matter if your goal is related to computer science or something else entirely.
 
 And if you don't have a goal at all? Well, I would recommend you find one. It doesn't matter if your goal is in computer science or entrepreneurship or literally to earn a lot of money.
 
 All you need is to find that goal and be heads-down chasing it.
 
-[[choose you goal]]
+[[step 1 - Resolve]]
+
