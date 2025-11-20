@@ -36,4 +36,6 @@ you see there is a time in your life when you know a skill , a concept and there
 
 and there is no clear path between these two states, all it takes is a leap of faith outside.
 
-[[story]]
+for this to be possible you need to evolve.
+
+[[birds Cage]]
