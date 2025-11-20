@@ -1,5 +1,7 @@
 
-Now, this gets us to another point, which is to stop living like a bird in someone's cage.
+Now, this gets us to point, which is to stop living like a bird in someone's cage.
+
+if you actually follow your goals , there will be people who judge you every step in the way.
 
 For a very long time in my life, 
 I used to worry about what other people thought of me very seriously. 
@@ -17,9 +19,5 @@ So sometimes, feel free to break the image that people have about you just becau
 
 If you can't be happy with yourself, you can never be happy with anyone else. 
 
-Now, the next one is the secret to reaching your goals faster, so fast that the people surrounding you will think it's a miracle.
-
-See, as a disclaimer, I don't consider myself to be successful yet because I'm fighting my own battles every day. I'm just like you, maybe a few steps ahead, but I still have a lot to do in my own life.
 
 
-[[framework]]
