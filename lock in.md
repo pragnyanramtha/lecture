@@ -9,7 +9,6 @@
     
     It's used when a person is deliberately setting aside distractions to put all their energy into a goal.
 
-
-[[Isolation]]
+[[step 1 - Resolve]]
 
 
