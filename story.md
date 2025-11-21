@@ -6,17 +6,17 @@ But after just a month, Blue felt that he had learned enough.
 
 He immediately started going to hackathons and applying for internships.
 
-His intention was not to make a lot of money or even win the hackathons, but to connect with experienced programmers. He attended numerous events and applied for 30 to 40 internships until he finally got an offer.
+His intention was not to make a lot of money or even win the hackathons, but to connect with experienced programmers. He attended numerous events and even won a hackathon with his team.
 
 Meanwhile, Red felt that he should learn more before jumping in.
 
 He started watching more videos, reading books, and even taking a couple of courses.
 
-He just felt that he wasn't ready for internships. 
+He just felt that he wasn't ready for anything.
 
-Three months passed. Blue had finished his internship, while Red was still learning the basics.
+Three months passed. Blue got a internship offer after winning another the hackathon, while Red was still learning the fundamentals.
 
-Six months later, Blue completed another internship. But Red, realizing that AI was now impacting marketing, felt he needed to learn about that first. He didn't want to rush; he wanted to be fully ready.
+Six months later, Blue completed another internship. But Red, realizing that AI was in the market now, felt he needed to learn about that first. He didn't want to rush; he wanted to be fully ready.
 
 Two years went by. Blue's manager from a previous internship loved his work and offered him a full-time job. Red was still studying AI and machine learning.
 
@@ -30,4 +30,5 @@ Blue's parents are proud of him. Red's parents are worried. But what went wrong?
 
 I think you know the answer. You see, in life, you'll never be completely ready for most things. So stop waiting for the "right time" to come, because by the time you feel ready, it might already be too late. 
 
-Got it? So yeah, that is it. These are a couple of things that I wanted to share with you today.
+nice to meet you, niat 
+i am pragnyan ramtha.

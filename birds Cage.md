@@ -1,7 +1,7 @@
 
-Now, this gets us to point, which is to stop living like a bird in someone's cage.
+Now, this gets us to a point, which is to stop living like a bird in someone's cage.
 
-if you actually follow your goals , there will be people who judge you every step in the way.
+If you actually follow your goals, there will be people who judge you every step of the way.
 
 For a very long time in my life, 
 I used to worry about what other people thought of me very seriously. 
@@ -19,5 +19,6 @@ So sometimes, feel free to break the image that people have about you just becau
 
 If you can't be happy with yourself, you can never be happy with anyone else. 
 
+[[story]]
 
 

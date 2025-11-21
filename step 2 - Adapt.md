@@ -13,14 +13,14 @@ That's what I call true evolution.
 The best place to learn is when you are on the edge of death.
 And the best time to learn is yesterday.
 
-but the second best place is right outside of your comfort zone and and   
+But the second best place is right outside of your comfort zone. and the best time is right now.
 
-whenever you feel like you are under pressure, you are suffocating, when you have no idea what you are doing , when you feel like you are going to fail. i want you to smile, because you will look back one day and realize that the moment you were suffering the most is also the moment you will grow the fastest. so don't run from it , don't escape it , embrace stress.
+Whenever you feel like you are under pressure, you are suffocating, when you have no idea what you are doing, when you feel like you are going to fail, I want you to smile. Because you will look back one day and realize that the moment you were suffering the most is also the moment you will grow the fastest. So don't run from it, don't escape it, embrace stress.
 
-and remember how you respond right now , how you stand up and push through.
+And remember how you respond right now, how you stand up and push through.
 
-this will transform you into something much more.
+This will transform you into something much more.
 
-don't crumble from the pressure but rise from it.
+Don't crumble from the pressure but rise from it.
 
 [[step 3  - Reward]]

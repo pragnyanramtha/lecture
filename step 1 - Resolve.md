@@ -8,13 +8,13 @@ I get it, alright? Programming feels boring. It's such a pain in the ass. It's n
 
 Computer science is a field where it takes the longest time to get the fruits of your labor (and so are all other fields), so the least thing you can do is make it cooler, more challenging, more dramatic than it actually is.
 
-imagine someone made a web series of your life ? and you are the main character , seven episodes , each one showing how your day looks for an entire week ? but here is what your day looks like.
+Imagine someone made a web series of your life. You are the main character, seven episodes, each one showing how your day looks for an entire week. But here is what your day looks like:
 
-you spend most of your time sleeping , scrolling , playing games.
+You spend most of your time sleeping, scrolling, and playing games.
 
-no dreams , no hobbies , no growth. 
+No dreams, no hobbies, no growth. 
 
-cuz even in a story , you want the main character to do something, to adapt, to grow, to win. 
+Because even in a story, you want the main character to do something, to adapt, to grow, to win. 
 
 Every person has their own way of perceiving things. Everyone has their own likes and their own views of
 what they think are cool.
@@ -25,38 +25,39 @@ Once you do this enough, I assure you, computer science will be the coolest thin
 
 here is one way to imagine it.
 
-Now that was a soccer goal, but i argue that your goals can look just like this.
+Now that was a soccer goal, but I argue that your goals can look just like this.
 
-if you ever feel bored, or if you feel like everyday is the same. it needs to change, right now.
+If you ever feel bored, or if you feel like every day is the same, it needs to change, right now.
 
-and it can only happen when you do , when you grow everyday , you notice the change, 
+And it can only happen when you do, when you grow every day, you notice the change. 
 
-but Ramtha, how do i actually grow, its simple.
+But Ramtha, how do I actually grow? It's simple.
 
-most things in life can be categorized into 5 things, skills and abilities, we call them. 
+Most things in life can be categorized into 5 things, skills and abilities, we call them. 
 
-to get a to know about this, you need to ask yourself, who are you exactly, i mean sure you give people your name, but what defines you exactly ?
+To get to know about this, you need to ask yourself, who are you exactly? I mean sure you give people your name, but what defines you exactly?
 
-well the Indian education system, thinks its 2 things.
+Well, the Indian education system thinks it's 2 things:
 
-1. your pattern recognition ability, things like how well are you able to remember the things that you have already learnt, how well are you able to recognize problems you have already done.
-2. and the second thing is your problem solving ability, how well are able to derive the solutions given non trivial information.
+1. Your pattern recognition ability: things like how well are you able to remember the things that you have already learnt, how well are you able to recognize problems you have already done.
+2. And the second thing is your problem-solving ability: how well are you able to derive solutions given non-trivial information.
 
-but people are not just defined based on that , there are many other things too.
+But people are not just defined based on that; there are many other things too.
 
-some skills are not taught is schools, and many people don't realize that learning in on itself is a skill.
+Some skills are not taught in schools, and many people don't realize that learning in and of itself is a skill.
 
-and learning that skill will definitely boost your time taken to learn other things by a lot, and once you realize you will observe that you start learning other things way faster than normal.
+And learning that skill will definitely boost the time taken to learn other things by a lot, and once you realize this, you will observe that you start learning other things way faster than normal.
 
-yes surely there are some things that you cannot learn, but there are also things that you will realize, your views will change.
+Yes, surely there are some things that you cannot learn, but there are also things that you will realize, and your views will change.
 
-and sometimes you feel like you have reached the limit , but turns out there are other things you have to learn before going all in on something.
+And sometimes you feel like you have reached the limit, but turns out there are other things you have to learn before going all in on something.
 
-and when you learn and you can indeed use these concepts to grow in other fields too.
+And when you learn, you can indeed use these concepts to grow in other fields too.
 
-and when you do, your view upon the world will change, you start finding new things much more important that previous ones.
+And when you do, your view upon the world will change; you start finding new things much more important than previous ones.
 
-and when you actually love what you are doing, you will become the top 1 % in that skill. 
+And when you actually love what you are doing, you will become the top 1% in that skill. 
 
+sure you will have a different, skill set based on who you are , but the process you learn is still the same.
 
 [[step 2 - Adapt]]

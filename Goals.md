@@ -17,7 +17,7 @@ Now, it doesn't matter if your goal is related to computer science or something 
 
 And if you don't have a goal at all? Well, I would recommend you find one. It doesn't matter if your goal is in computer science or entrepreneurship or literally to earn a lot of money.
 
-All you need is to find that goal and be heads-down chasing it.
+All you need to do is lock in and be heads down chasing that goal.
 
 [[step 1 - Resolve]]
 

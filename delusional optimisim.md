@@ -6,6 +6,6 @@ Then how do you become better than him?
 
 You see, you don't need to be the smartest person in the room, but you need to be the most obsessed one, and that is the key to your growth.
 
-Now, then how do you become obsessed?
+Now, how do you become obsessed?
 
 [[Goals]]
