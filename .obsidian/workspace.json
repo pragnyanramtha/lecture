@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "step 3  - Reward.md",
+                "file": "step 1 - Resolve.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "step 3  - Reward"
+              "title": "step 1 - Resolve"
             }
           },
           {
@@ -27,16 +27,15 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Start.md",
+                "file": "step 2 - Adapt.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Start"
+              "title": "step 2 - Adapt"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -109,7 +108,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Start.md",
+                "file": "step 1 - Resolve.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -119,7 +118,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for Start"
+              "title": "Backlinks for step 1 - Resolve"
             }
           },
           {
@@ -199,17 +198,17 @@
       "bases:Create new base": false
     }
   },
-  "active": "0cad0ee636c02f67",
+  "active": "943d24a8f8df280f",
   "lastOpenFiles": [
-    "birds Cage.md",
+    "step 3  - Reward.md",
+    "step 2 - Adapt.md",
+    "step 1 - Resolve.md",
+    "Goals.md",
     "delusional optimisim.md",
     "Start.md",
     "story.md",
-    "step 3  - Reward.md",
-    "step 1 - Resolve.md",
-    "step 2 - Adapt.md",
+    "birds Cage.md",
     "presentation.md",
-    "Goals.md",
     "lock in.md",
     "japanese quote.md",
     "example.md",

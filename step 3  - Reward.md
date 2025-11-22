@@ -83,9 +83,8 @@ once we do this , we will have to 2 lists without any common letter now at this 
 
 and badda boom , there you go , we have our answer.
 
-   
+if you didn't understand that, its alright, no one understands anything by listening, you can only learn something by experiencing, experimenting, building it yourself, not the other way around.
 
-
-
+well that's that for how you learn, but there are 2 more things i would like to share with you.
 
 [[birds Cage]]

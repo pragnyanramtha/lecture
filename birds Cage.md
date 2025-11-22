@@ -1,5 +1,4 @@
-
-Now, this gets us to a point, which is to stop living like a bird in someone's cage.
+which is to stop living like a bird in someone's cage.
 
 If you actually follow your goals, there will be people who judge you every step of the way.
 

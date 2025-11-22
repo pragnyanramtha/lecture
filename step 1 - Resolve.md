@@ -8,6 +8,8 @@ I get it, alright? Programming feels boring. It's such a pain in the ass. It's n
 
 Computer science is a field where it takes the longest time to get the fruits of your labor (and so are all other fields), so the least thing you can do is make it cooler, more challenging, more dramatic than it actually is.
 
+---
+
 Imagine someone made a web series of your life. You are the main character, seven episodes, each one showing how your day looks for an entire week. But here is what your day looks like:
 
 You spend most of your time sleeping, scrolling, and playing games.
@@ -16,16 +18,19 @@ No dreams, no hobbies, no growth.
 
 Because even in a story, you want the main character to do something, to adapt, to grow, to win. 
 
+---
+now your story is not something you would problem watch, but i assume some would watch this.
+
+Now that was a soccer goal, but I argue that your goals can look just like this.
+
+for anime watchers was probably cool, and for remaining people that was probably cool.  
+
 Every person has their own way of perceiving things. Everyone has their own likes and their own views of
 what they think are cool.
 
 All you have to do is imagine a little bit, see things a bit differently, and this will make all the difference in the world.
 
 Once you do this enough, I assure you, computer science will be the coolest thing that you ever do.
-
-here is one way to imagine it.
-
-Now that was a soccer goal, but I argue that your goals can look just like this.
 
 If you ever feel bored, or if you feel like every day is the same, it needs to change, right now.
 
@@ -44,7 +49,11 @@ Well, the Indian education system thinks it's 2 things:
 
 But people are not just defined based on that; there are many other things too.
 
-Some skills are not taught in schools, and many people don't realize that learning in and of itself is a skill.
+but for now i will regarding your problem solving ability as programming and your pattern recognition ability as mathematics, interchangeably.  
+
+Some skills are not taught in schools, and one of them is the abilty to learn.
+
+many people don't realize that learning in and of itself is a skill.
 
 And learning that skill will definitely boost the time taken to learn other things by a lot, and once you realize this, you will observe that you start learning other things way faster than normal.
 
