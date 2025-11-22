@@ -1,6 +1,6 @@
 Hello, World !
 
-I am a programmer, and I'm currently doing an internship at Reputation DAO, a US-funded AI research and Web3 company.
+I'm an ai research scientist currently working  at Reputation DAO, a US-funded AI research and Web3 company.
 
 That's the part some of you may have known.
 
