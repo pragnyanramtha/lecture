@@ -4,9 +4,11 @@ Your long-term goal is what gives rise to your short-term resolve.
 
 If your resolve is weak, you procrastinate, you lose. If your resolve is strong, you get better. Not much to explain here.
 
-I get it, alright? Programming feels boring. It's such a pain in the ass. It's not cool. It requires a lot of mental effort, and you learn all these boring concepts that make you question why.
+I get it, alright? computer science feels boring. It's such a pain in the ass. It's not cool like games, fun like movies, engaging like reels.
 
-Computer science is a field where it takes the longest time to get the fruits of your labor (and so are all other fields), so the least thing you can do is make it cooler, more challenging, more dramatic than it actually is.
+but you see, Computer science is a field where it takes the longest time to get the fruits of your labor (and so are all other fields), so the least thing you can do is make it cooler, more challenging, more dramatic than it actually is.
+
+think about it, if you actually liked what you were doing, would you stop doing it ? would you give up ? that is your obsession.  
 
 ---
 
@@ -19,11 +21,17 @@ No dreams, no hobbies, no growth.
 Because even in a story, you want the main character to do something, to adapt, to grow, to win. 
 
 ---
-now your story is not something you would problem watch, but i assume some would watch this.
+I mean would you even watch your own series ? 
 
-Now that was a soccer goal, but I argue that your goals can look just like this.
+I refuse to live a life that's boring and meaningless, i always wondered , why was i born , what is my purpose ? and i am going to keep asking myself that question again and again until i find the answer.
 
-for anime watchers was probably cool, and for remaining people that was probably cool.  
+if there is really such a thing as my destiny , i should be the one to control it, not the other way around.
+
+i refuse to have a fate where i look back and i see nothing, i want it to be every bit as fun and daring.
+
+heck, i wanna do things that i never forget, and i wanna do them everyday. and i think that's what i call happiness.
+
+do you even remember that last reel you watched ? , if not are you sure that it made you happy ?
 
 Every person has their own way of perceiving things. Everyone has their own likes and their own views of
 what they think are cool.
@@ -35,38 +43,5 @@ Once you do this enough, I assure you, computer science will be the coolest thin
 If you ever feel bored, or if you feel like every day is the same, it needs to change, right now.
 
 And it can only happen when you do, when you grow every day, you notice the change. 
-
-But Ramtha, how do I actually grow? It's simple.
-
-Most things in life can be categorized into 5 things, skills and abilities, we call them. 
-
-To get to know about this, you need to ask yourself, who are you exactly? I mean sure you give people your name, but what defines you exactly?
-
-Well, the Indian education system thinks it's 2 things:
-
-1. Your pattern recognition ability: things like how well are you able to remember the things that you have already learnt, how well are you able to recognize problems you have already done.
-2. And the second thing is your problem-solving ability: how well are you able to derive solutions given non-trivial information.
-
-But people are not just defined based on that; there are many other things too.
-
-but for now i will regarding your problem solving ability as programming and your pattern recognition ability as mathematics, interchangeably.  
-
-Some skills are not taught in schools, and one of them is the abilty to learn.
-
-many people don't realize that learning in and of itself is a skill.
-
-And learning that skill will definitely boost the time taken to learn other things by a lot, and once you realize this, you will observe that you start learning other things way faster than normal.
-
-Yes, surely there are some things that you cannot learn, but there are also things that you will realize, and your views will change.
-
-And sometimes you feel like you have reached the limit, but turns out there are other things you have to learn before going all in on something.
-
-And when you learn, you can indeed use these concepts to grow in other fields too.
-
-And when you do, your view upon the world will change; you start finding new things much more important than previous ones.
-
-And when you actually love what you are doing, you will become the top 1% in that skill. 
-
-sure you will have a different, skill set based on who you are , but the process you learn is still the same.
 
 [[step 2 - Adapt]]
