@@ -20,10 +20,6 @@ i refuse to have a fate where i look back and i see nothing, i want it to be eve
 
 I want to do things that leave a mark on me, things I’ll never forget, and I want to do them every single day.
 
-do you even remember that last reel you watched ? , if not are you sure that it made you happy ?
-
-If you ever feel bored, or if you feel like every day is the same, it needs to change, right now.
-
-And it can only happen when you do, when you grow every day, you notice the change. 
+do you even remember that last reel you watched ? , if not are you sure that it made you happy ? 
 
 [[step 2 - Adapt]]
