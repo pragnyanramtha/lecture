@@ -3,9 +3,7 @@ When everything is convenient, curiosity dies.
 When you are stripped of a challenge, it erases the need for you to evolve.
 
 It's not easy. No one said it was. Your daily life is flooded with information and entertainment. It's an endless hell to cover up your boredom and anxiety.
-
-People can't get absorbed into something so easily. For example, you might passively get into a trance-like state on your phone, but that's not the adaptation state available exclusively for you. Hence, I wouldn't call it learning in my book. 
-
+   
 The excitement you gain when you find a new weapon, the thrill you feel when you have reached a goal, this joy is something that only belongs to you.
 
 That's what I call true evolution.

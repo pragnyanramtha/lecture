@@ -16,7 +16,6 @@ Only do what you need to; focus on what's important, not what's required.
 At least understand what you have done, seek out what you have achieved. 
 
 And then you will truly understand how you have grown.
-Every time you face a problem you are struggling against, you don't need to start from the bottom. Use what you have learnt in your life, and solve the problems.
 
 For this to be possible, you need to know who exactly you are. Who are you?
 What are your abilities? What are your skills? How can you use them to your advantage? What are your limits? How do you break them? 
